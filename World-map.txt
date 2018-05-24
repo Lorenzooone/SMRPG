@@ -1,11 +1,11 @@
 A Casa Mario
-Al Forte di Bowser
+Al Castello di Bowser
 A Casa Mario
 Colle Panorama
-Forte di Bowser
+Castello di Bowser
 Varco
 A Nembilandia
-Al Forte di Bowser
+Al Castello di Bowser
 Casa Mario
 Via dei Funghi
 Regno dei Funghi
@@ -48,7 +48,7 @@ Sala da Giown
 A Nembilandia
 A Valle Fagiolo
 Vulcano Barile
-Al Forte di Bowser
+Al Castello di Bowser
 Isola Yoshi
 Alle Tubature
 Miniere di Carbone
