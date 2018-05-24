@@ -2,3 +2,4 @@ item, item-desc, attack, spell, spell-desc, monster e monster-psyco vanno fatti 
 Bisogna anche trovare i nomi per i menù e la world map. Mettiamoli in un file esterno pure loro.
 Dopo questi, vanno fatti i battleDialogues.
 Infine, si parte con i dialogues.
+Durante i dialogues, useremo il file REFERENCE per certi nomi che non hanno una traduzione negli altri file.
