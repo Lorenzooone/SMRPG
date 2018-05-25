@@ -1,0 +1,117 @@
+Item
+Special
+Status
+Special Item
+Map
+Star Pieces
+Switch
+Game
+Attack
+Defense
+Level
+HP
+Max HP
+Exp.Level
+Attack
+Defense
+Mg.Attack
+Mg.Defense
+Speed
+Switch
+which two?
+Flower Used
+Mg.Power
+That’s a[1]Special Item
+Retry
+End
+Coins
+learns a new
+technique at
+LV
+LV
+Cancel w/B
+Thank you!
+Game Over
+Need more coins!
+Space
+[152]
+[152]
+[152]
+[153]
+Done
+Your name?
+New Game
+  Save
+Next Level at
+Stereo
+Mono
+Not your last save.
+Save here anyway?
+Yes
+Yes
+No
+Can’t carry any[1]more!
+Coins maxed out!
+Flowers
+Frog Coins
+Score
+Hi-Score
+
+
+Items maxed out.[1]Toss something!
+Toss this away?
+  Saved
+First choose “Equip”.
+Confirm with “A”.
+Wrong button!
+You can equip these.
+To equip the hammer,
+select the top slot
+and push “A”. Then select
+the hammer and push “A” again.
+You’re done!
+Let’s try it again.
+Now you try it.
+Perfect!
+Buy
+Sell items
+Sell weapons
+No. owned:
+Price
+Frog Coin Inc.
+Frog Coin Inc.
+Frog Coin Inc.
+Frog Coin Inc.
+Frog Coin Inc.
+Frog Coin Inc.
+Frog Coin Inc.
+Choose “Item”,
+then press “A”.
+This is your item list.
+Read about items here.
+To use a Mushroom[43][43]
+point here and push “A”.
+Behold![43][43]
+It moves to Mario!
+Push “A” again to use it,[2]or push “B” to cancel.
+Give it a try!
+Give it a try!
+See! You recovered your HP.
+This is the menu.[2]Use this to equip or use items.
+Now you are 4, but...
+fighting is limited to 3!
+Access “Switch” now.
+These 3 will fight,
+while their pals rest.
+Simply choose the 2
+you wish to switch.
+Mario must always fight, though.
+MARIO1
+MARIO2
+MARIO3
+MARIO4
+PLEASE DISCONNECT
+SUPER NES
+MULTI-PLAYER ADAPTER
+TO START PLAYING
+Select “Game” on the menu, and[2]you can play “Beetle Mania”.[2]But please be sure not to cheat[2]with a Turbo-type controller.
