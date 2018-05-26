@@ -453,7 +453,7 @@
 226E: My promotion's at stake![2][0][END]
 226I: È in gioco la mia promozione![2][0][END]
 227E: This is for Yaridovich![2][0][END]
-227I: Questo è da parte di Lanciavich![2][0][END]
+227I: Questo è da parte di Lanciovich![2][0][END]
 228E: Red, WRONG POSITION![2][0][END]
 228I: POSIZIONE ERRATA, Rosso![2][0][END]
 229E: You're timing stinks![2][0][END]
