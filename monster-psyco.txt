@@ -41,7 +41,7 @@
 020E: Any reaping to be done?[2][0][END]
 020I: C'è qualcosa da mietere?[END]
 021E: Fire EVERYWHERE![2][0][END]
-021I: Fuoco, fuoco DAPPERTUTTO![2][0][END]
+021I: Fuoco, fuoco OVUNQUE![2][0][END]
 022E: Workin' on a chain gang.[2][0][END]
 022I: Lavoro insieme ai miei colleghi.[2][0][END]
 023E: I'm trying to sleep, OK?[2][0][END]
