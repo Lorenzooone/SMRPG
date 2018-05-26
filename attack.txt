@@ -193,7 +193,7 @@
 096E: Hammer Time [END]
 096I: Lanciartello[END]
 097E: Valor Up    [END]
-097I: Coraggio su [END]
+097I: Coraggio su![END]
 098E:DUMMY        [END]
 098I:DUMMY        [END]
 099E: Last Shot!  [END]
