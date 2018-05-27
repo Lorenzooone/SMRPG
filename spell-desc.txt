@@ -37,7 +37,7 @@
 018E:Press "Y# prior[1]to contact for[1]critical hit![0][END]
 018I:Premi "Y# prima[1]di colpire per[1]eseguire un[1]attacco critico![0][END]
 019E: Beam hits[1] all foes![1] Energize![0][END]
-019I: Un raggio che[1] colpisce tutti[1] i nemici! Che[1] forza![0][END]
+019I: Un raggio che[1] colpisce tutti[1] i nemici![1] Che forza![0][END]
 020E: Build power![1] Beam hits[1] all foes![0][END]
 020I: Un lampo che[1] colpisce tutti[1] i nemici![1] Estremamente[1] forte![0][END]
 021E: Hit "Y# just[1] before bolt[1] ends![0][END]
