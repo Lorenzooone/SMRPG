@@ -309,7 +309,7 @@
 154E: Raises party~s[1] Attack Power[1] in battle[0][END]
 154I: In battaglia[1] aumenta la Potenza[1] della compagnia[0][END]
 155E: It~s wilted...[0][END]
-155I: È appassito...[0][END]
+155I: È secco...[0][END]
 156E: Eeew,[1] it~s rotten![0][END]
 156I: Bleah,[1] è marcia![0][END]
 157E: Gross![1] There~s mold[1] growing on it.[0][END]
