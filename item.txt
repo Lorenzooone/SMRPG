@@ -1,4 +1,4 @@
-000E:Weapon        [END]
+﻿000E:Weapon        [END]
 000I:Armi          [END]
 001E:Armor         [END]
 001I:Armatura      [END]
@@ -17,11 +17,7 @@
 008E:!Punch Glove   [END]
 008I:!Guanto Pugno  [END]
 009E:)Finger Shot   [END]
-<<<<<<< HEAD
-009I: Mano Pistola  [END]
-=======
-009I:)Dito Pistola  [END]
->>>>>>> 2f6e93145e2091b5873bb5ba9fc0baf711f03a3b
+009I:)Dita Pistola  [END]
 010E:%Cymbals       [END]
 010I:%Cembali       [END]
 011E:'Chomp         [END]
