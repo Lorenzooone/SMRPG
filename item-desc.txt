@@ -317,7 +317,7 @@
 158E: A fast}growing[1] seed[0][END]
 158I: Un seme che[1] cresce[1] velocemente[0][END]
 159E: Nutrients![0][END]
-159I: Dei nutrienti![0][END]
+159I: Un insieme di[1] nutrienti![0][END]
 160E: You can throw[1] away unwanted[1] items[0][END]
 160I: Puoi gettare via[1] gli oggetti inutili[0][END]
 161E: It~s a[1] Big Boo Flag[0][END]
