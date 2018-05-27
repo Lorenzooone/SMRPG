@@ -139,7 +139,7 @@
 069E:<Super Suit    [END]
 069I: [END]
 070E:<Lazy Shell    [END]
-070I: [END]
+070I:<Guscio Pigro  [END]
 071E:Spare         [END]
 071I: [END]
 072E:Spare         [END]
