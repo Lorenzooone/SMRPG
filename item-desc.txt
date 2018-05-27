@@ -295,7 +295,7 @@
 147E: There are[1] beetles inside[0][END]
 147I: Dentro ci sono[1] degli Scarabei[0][END]
 148E: Summons Luck[1] at will[0][END]
-148I: Fuortuna[1] garantita[0][END]
+148I: Fortuna[1] garantita[0][END]
 149E:[0][END]
 149I:[0][END]
 150E: A membership[1] card for the[1] Juice Bar[0][END]
