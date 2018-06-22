@@ -13,7 +13,7 @@
 006E:(FroggieStick  [END]
 006I:(BastoneCràCrà [END]
 007E:#NokNok Shell  [END]
-007I:#Guscio NokNok [END]
+007I:#Guscio Koopa  [END]
 008E:!Punch Glove   [END]
 008I:!Guanto Pugno  [END]
 009E:)Finger Shot   [END]
