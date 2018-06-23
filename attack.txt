@@ -165,7 +165,7 @@
 082E: Magnum      [END]
 082I: Banzai Bill [END]
 083E: Psyche!     [END]
-083I: Colpo!      [END]
+083I: Smash!      [END]
 084E: Migraine    [END]
 084I: Sparizione  [END]
 085E:             [END]
