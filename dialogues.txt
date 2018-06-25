@@ -1,1031 +1,1031 @@
 {0000}	                     INN[6]
-{0000}I:
+{0000}I:	                     LOCANDA[6]
 {0001}	                ITEM SHOP[6]
-{0001}I:
+{0001}I:	                BOTTEGA[6]
 {0002}	             INN / ITEM SHOP[6]
-{0002}I:
+{0002}I:	             LOCANDA / BOTTEGA
 {0003}	             MONSTRO TOWN[6]
-{0003}I:
+{0003}I:                 MOSTROPOLI[6]
 {0004}	          TOADSTOOL'S ROOM[6]
-{0004}I:
+{0004}I:              STANZA DI PEACH[6]
 {0005}	            BELOME TEMPLE[6]
-{0005}I:
+{0005}I:                TEMPIO DI BELOME[6]
 {0006}	            GARRO'S HOUSE[6]
-{0006}I:
+{0006}I:                CASA DI GARRO[6]
 {0007}	              YO'STER ISLE[6]
-{0007}I:
+{0007}I:                  ISOLA YOSHI[6]
 {0008}	          MARRYMORE HOTEL[6]
-{0008}I:
+{0008}I:              HOTEL SPOSOVILLA[6]
 {0009}	            BEETLES ARE US[6]
-{0009}I:
+{0009}I:           MERCATINO SNIFIT[6]
 {0010}	      WEAPON AND ARMOR SHOP[6]
-{0010}I:
+{0010}I:    BOTTEGA ARMI E ARMATURE[6]
 {0011}	                 BEDROOM[6]
-{0011}I:
+{0011}I:           CAMERA DA LETTO[6]
 {0012}	          HEALTH FOOD STORE[6]
-{0012}I:
+{0012}I:             BOTTEGA CURE[6]
 {0013}	        MUSHROOM BOY'S SHOP[6]
-{0013}I:
+{0013}I:            BOTTEGA DI TOADOLO[6]
 {0014}	            ACCESSORY SHOP[6]
-{0014}I:
+{0014}I:              BOTTEGA ACCESSORI[6]
 {0015}	               MELODY BAY[6]
-{0015}I:
+{0015}I:                  BAIA MELODIA[6]
 {0016}	         GRATE GUY'S CASINO[6]
-{0016}I:
+{0016}I:             SALA GIOCHI DI GIOWN[6]
 {0017}	               HINO MART[6]
-{0017}I:
+{0017}I:                BOTTEGA TOADOCO[6]
 {0018}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0018}I:
+{0018}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0019}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0019}I:
+{0019}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0020}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0020}I:
+{0020}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0021}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0021}I:
+{0021}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0022}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0022}I:
+{0022}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0023}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0023}I:
+{0023}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0024}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0024}I:
+{0024}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0025}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0025}I:
+{0025}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0026}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0026}I:
+{0026}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0027}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0027}I:
+{0027}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0028}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0028}I:
+{0028}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0029}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0029}I:
+{0029}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0030}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0030}I:
+{0030}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0031}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0031}I:
+{0031}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0032}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0032}I:
+{0032}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0033}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0033}I:
+{0033}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0034}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0034}I:
+{0034}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0035}	 Before Valentina came, fireworks[1] lit up the sky every night.[3] Some guy in Moleville would make[1] the fireworks.[2] I wonder if we'll ever get to[1] see them again...[0]
-{0035}I:
+{0035}I:     Prima della venuta di Margherita,[1] i fuochi d'artificio solcavano il cielo notturno.[3] A crearli era un tizio di Talpopoli.[2] Chissà se lo rivedremo ancora...?[0]
 {0036}	 It's a marvelous statue,[1] isn't it?[0]
-{0036}I:
+{0036}I:     È una statua bellissima,[1] vero?[0]
 {0037}	 We can finally walk around the[1] castle and the town freely.[3] People from down under will[1] probably come too. That girl at the[1] entrance'll tell you who's here.[0]
-{0037}I:
+{0037}I:     Finalmente siamo liberi di stare[1] nei pressi del castello e del borgo.[3] Prima o poi saliranno anche gli[1] altri. La ragazza all'entrata[1] ti saprà dire chi c'è.[0]
 {0038}	[4] Whoa! Congratulations![2] You deserve this![0]
-{0038}I:
+{0038}I:    [4] Oh! Congratulazioni![2] Te lo meriti![0] 
 {0039}	 It'll let you get into my brother's[1] Casino...wherever THAT is...[0]
-{0039}I:
+{0039}I:     Ti lascerò accedere alla Sala Giochi[1] di mio fratello... ovunque si[1] trovi...[0]
 {0040}	[4][1]                  Thanks![0]
-{0040}I:
+{0040}I:    [4][1]                  Grazie![0]
 {0041}	[4][1]                  Thanks![0]
-{0041}I:
+{0041}I:    [4][1]                  Grazie![0]
 {0042}	[4][1]                  Thanks![0]
-{0042}I:
+{0042}I:    [4][1]                  Grazie![0]
 {0043}	[4][1]                  Thanks![0]
-{0043}I:
+{0043}I:    [4][1]                  Grazie![0]
 {0044}	[4][1]                  Thanks![0]
-{0044}I:
+{0044}I:    [4][1]                  Grazie![0]
 {0045}	[4][1]                  Thanks![0]
-{0045}I:
+{0045}I:    [4][1]                  Grazie![0]
 {0046}	[4][1]                  Thanks![0]
-{0046}I:
+{0046}I:    [4][1]                  Grazie![0]
 {0047}	[4][1]                  Thanks![0]
-{0047}I:
+{0047}I:    [4][1]                  Grazie![0]
 {0048}	???: I'm so...lonely.[1] Will you play with me?[2] [7]  (Sure)[1] [7]  (Not now)[0]
-{0048}I:
+{0048}I:    ???: Mi sento... solo.[1] Giochi con me?[2] [7]  (Certo)[1] [7]  (Non ora)[0]
 {0049}	[1]    BIRDO: Don't forget about me![0]
-{0049}I:
+{0049}I:    [1]    STRUTZI: Non ti scordar di me![0]
 {0050}	[4] Oh...[5] If you had played[1] with me, I was going to give you[1] the key to this room.[0]
-{0050}I:
+{0050}I:    [4] Oh...[5] Se avessi giocato con me,[1] ti avrei dato la chiave di questa[1] stanza.[0]
 {0051}	 This statue[12][12]...[12]it[12]...it seems[1] so...unworldly![0]
-{0051}I:
+{0051}I:     Questa statua[12][12]...[12] s-[12]sembra[1] così... eterea![0]
 {0052}	 The King gave me another job as[1] a guard.[5][6]
-{0052}I:
+{0052}I:     Il Re mi ha dato un nuovo lavoro[1] come guardia.
 {0053}	[1] ...Prince Mallow![0]
-{0053}I:
+{0053}I:    [1] ... Principe Mallow![0]
 {0054}	MALLOW: Thank you so much![1] We were able to rescue my father[1] with the key you gave us.[0]
-{0054}I:
+{0054}I:    MALLOW: Grazie mille![1] Siamo riusciti a salvare mio padre[1] con la chiave che ci hai dato.[0]
 {0055}	 Don't mention it...[5][6]
-{0055}I:
+{0055}I:     Non dire così...[5][6]
 {0056}	[1] Besides, it was YOU,[1] who actually rescued him![0]
-{0056}I:
+{0056}I:    [1] D'altronde, siete stati VOI ad[1] averlo salvato![0]
 {0057}	MALLOW:[1]        Good luck in the future![0]
-{0057}I:
+{0057}I:    MALLOW:[1]        Che la sorte ti assista![0]
 {0058}	[1]                 You too![0]
-{0058}I:
+{0058}I:    [1]                 Anche a voi![1]
 {0059}	 Prince![0]
-{0059}I:
+{0059}I:     Principe![0]
 {0060}	 Here, this is from me.[2] Please, take it.[0]
-{0060}I:
+{0060}I:     Ecco, questo è da parte mia.[2] Coraggio, prendete.[0]
 {0061}	 I shall continue to work for the[1] King with pride.[0]
-{0061}I:
+{0061}I:     Io continuerò ad assistere il Re[1] con onore.[0]
 {0062}	[4] Eh hem...very well.[2] “FP”s are consumed during[1] battle when you use “Special”[1] attacks. For example...[3] A “Jump” attack uses 3 “FP”s.[2] When you “Jump”, your “FP” will[1] decrease by 3 each time. Run out,[1] and you can't use these attacks![3] An item called a “Flower” raises[1] your maximum “FP”s.[2] Recover “FP”s with syrups,[1] some mushrooms, and at inns.[0]
-{0062}I:
+{0062}I:    [4] Eh ehm... molto bene.[2] I “PF” si consumano quando in battaglia[1] utlizzi un attacco[1] “Speciale”. Ad esempio...[3] Un “Salto” richiede 3 “PF”.[2] Quando “Salti”, i tuoi “PF”[1] diminuiscono di 3. Terminali e non[1] potrai usare attacchi speciali![3] C'è un oggetto chiamato “Fiore”[1] che aumenta i tuoi “PF” massimi.[2] Ripristina “PF” con sciroppi,[1] alcuni tipi di funghi o nelle[1] locande.[0]
 {0063}	[4] Eh hem...very well.[2] “FP”s are consumed during[1] battle when you use “Special”[1] attacks. For example...[3] A “Jump” attack uses 3 “FP”s.[2] When you “Jump”, your “FP” will[1] decrease by 3 each time. Run out,[1] and you can't use these attacks![3] An item called a “Flower” raises[1] your maximum “FP”s.[2] Recover “FP”s with syrups,[1] some mushrooms, and at inns.[0]
-{0063}I:
+{0063}I:    [4] Eh ehm... molto bene.[2] I “PF” si consumano quando in battaglia[1] utlizzi un attacco[1] “Speciale”. Ad esempio...[3] Un “Salto” richiede 3 “PF”.[2] Quando “Salti”, i tuoi “PF”[1] diminuiscono di 3. Terminali e non[1] potrai usare attacchi speciali![3] C'è un oggetto chiamato “Fiore”[1] che aumenta i tuoi “PF” massimi.[2] Ripristina “PF” con sciroppi,[1] alcuni tipi di funghi o nelle[1] locande.[0]
 {0064}	 Hey! Did you just see[1] a crocodile around here?[1] He talks like a mobster wannabe.[5][6]
-{0064}I:
+{0064}I:     Ehi! Per caso hai visto un[1] coccodrillo da queste parti?[1] Parla come un teppista fallito.[5][6]
 {0065}	[4] I'm sure he's up to no good![13][48][1] Hey, wait a sec!!![13][48][1] My wallet's gone![0]
-{0065}I:
+{0065}I:    [4] Sta tramando qualcosa, ne sono[1] certo![13][48][1] Ehi, un attimo!!![13][48][1] Il mio portafogli è sparito![0]
 {0066}	          Got a “[26]”![6]
-{0066}I:
+{0066}I:              Ottenuto: “[26]”![6]
 {0067}	          Got a “[26]”![6]
-{0067}I:
+{0067}I:              Ottenuto: “[26]”![6]
 {0068}	          Got a “[26]”![6]
-{0068}I:
+{0068}I:              Ottenuto: “[26]”![6]
 {0069}	          Got a “[26]”![6]
-{0069}I:
+{0069}I:              Ottenuto: “[26]”![6]
 {0070}	          Got a “[26]”![6]
-{0070}I:
+{0070}I:              Ottenuto: “[26]”![6]
 {0071}	          Got a “[26]”![6]
-{0071}I:
+{0071}I:              Ottenuto: “[26]”![6]
 {0072}	          Got a “[26]”![6]
-{0072}I:
+{0072}I:              Ottenuto: “[26]”![6]
 {0073}	          Got a “[26]”![6]
-{0073}I:
+{0073}I:              Ottenuto: “[26]”![6]
 {0074}	          Got a “[26]”![6]
-{0074}I:
+{0074}I:              Ottenuto: “[26]”![6]
 {0075}	          Got a “[26]”![6]
-{0075}I:
+{0075}I:              Ottenuto: “[26]”![6]
 {0076}	          Got a “[26]”![6]
-{0076}I:
+{0076}I:              Ottenuto: “[26]”![6]
 {0077}	          Got a “[26]”![6]
-{0077}I:
+{0077}I:              Ottenuto: “[26]”![6]
 {0078}	          Got a “[26]”![6]
-{0078}I:
+{0078}I:              Ottenuto: “[26]”![6]
 {0079}	          Got a “[26]”![6]
-{0079}I:
+{0079}I:              Ottenuto: “[26]”![6]
 {0080}	          Got a “[26]”![6]
-{0080}I:
+{0080}I:              Ottenuto: “[26]”![6]
 {0081}	          Got a “[26]”![6]
-{0081}I:
+{0081}I:              Ottenuto: “[26]”![6]
 {0082}	          Got a “[26]”![6]
-{0082}I:
+{0082}I:              Ottenuto: “[26]”![6]
 {0083}	          Got a “[26]”![6]
-{0083}I:
+{0083}I:              Ottenuto: “[26]”![6]
 {0084}	          Got a “[26]”![6]
-{0084}I:
+{0084}I:              Ottenuto: “[26]”![6]
 {0085}	          Got a “[26]”![6]
-{0085}I:
+{0085}I:              Ottenuto: “[26]”![6]
 {0086}	          Got a “[26]”![6]
-{0086}I:
+{0086}I:              Ottenuto: “[26]”![6]
 {0087}	          Got a “[26]”![6]
-{0087}I:
+{0087}I:              Ottenuto: “[26]”![6]
 {0088}	          Got a “[26]”![6]
-{0088}I:
+{0088}I:              Ottenuto: “[26]”![6]
 {0089}	          Got a “[26]”![6]
-{0089}I:
+{0089}I:              Ottenuto: “[26]”![6]
 {0090}	          Got a “[26]”![6]
-{0090}I:
+{0090}I:              Ottenuto: “[26]”![6]
 {0091}	          Got a “[26]”![6]
-{0091}I:
+{0091}I:              Ottenuto: “[26]”![6]
 {0092}	          Got a “[26]”![6]
-{0092}I:
+{0092}I:              Ottenuto: “[26]”![6]
 {0093}	          Got a “[26]”![6]
-{0093}I:
+{0093}I:              Ottenuto: “[26]”![6]
 {0094}	          Got a “[26]”![6]
-{0094}I:
+{0094}I:              Ottenuto: “[26]”![6]
 {0095}	          Got a “[26]”![6]
-{0095}I:
+{0095}I:              Ottenuto: “[26]”![6]
 {0096}	          Got a “[26]”![6]
-{0096}I:
+{0096}I:              Ottenuto: “[26]”![6]
 {0097}	          Got a “[26]”![6]
-{0097}I:
+{0097}I:              Ottenuto: “[26]”![6]
 {0098}	          Got a “[26]”![6]
-{0098}I:
+{0098}I:              Ottenuto: “[26]”![6]
 {0099}	          Got a “[26]”![6]
-{0099}I:
+{0099}I:              Ottenuto: “[26]”![6]
 {0100}	          Got a “[26]”![6]
-{0100}I:
+{0100}I:              Ottenuto: “[26]”![6]
 {0101}	          Got a “[26]”![6]
-{0101}I:
+{0101}I:              Ottenuto: “[26]”![6]
 {0102}	          Got a “[26]”![6]
-{0102}I:
+{0102}I:              Ottenuto: “[26]”![6]
 {0103}	          Got a “[26]”![6]
-{0103}I:
+{0103}I:              Ottenuto: “[26]”![6]
 {0104}	          Got a “[26]”![6]
-{0104}I:
+{0104}I:              Ottenuto: “[26]”![6]
 {0105}	          Got a “[26]”![6]
-{0105}I:
+{0105}I:              Ottenuto: “[26]”![6]
 {0106}	          Got a “[26]”![6]
-{0106}I:
+{0106}I:              Ottenuto: “[26]”![6]
 {0107}	          Got a “[26]”![6]
-{0107}I:
+{0107}I:              Ottenuto: “[26]”![6]
 {0108}	          Got a “[26]”![6]
-{0108}I:
+{0108}I:              Ottenuto: “[26]”![6]
 {0109}	          Got a “[26]”![6]
-{0109}I:
+{0109}I:              Ottenuto: “[26]”![6]
 {0110}	          Got a “[26]”![6]
-{0110}I:
+{0110}I:              Ottenuto: “[26]”![6]
 {0111}	          Got a “[26]”![6]
-{0111}I:
+{0111}I:              Ottenuto: “[26]”![6]
 {0112}	          Got a “[26]”![6]
-{0112}I:
+{0112}I:              Ottenuto: “[26]”![6]
 {0113}	          Got a “[26]”![6]
-{0113}I:
+{0113}I:              Ottenuto: “[26]”![6]
 {0114}	          Got a “[26]”![6]
-{0114}I:
+{0114}I:              Ottenuto: “[26]”![6]
 {0115}	          Got a “[26]”![6]
-{0115}I:
+{0115}I:              Ottenuto: “[26]”![6]
 {0116}	          Got a “[26]”![6]
-{0116}I:
+{0116}I:              Ottenuto: “[26]”![6]
 {0117}	          Got a “[26]”![6]
-{0117}I:
+{0117}I:              Ottenuto: “[26]”![6]
 {0118}	          Got a “[26]”![6]
-{0118}I:
+{0118}I:              Ottenuto: “[26]”![6]
 {0119}	          Got a “[26]”![6]
-{0119}I:
+{0119}I:              Ottenuto: “[26]”![6]
 {0120}	          Got a “[26]”![6]
-{0120}I:
+{0120}I:              Ottenuto: “[26]”![6]
 {0121}	          Got a “[26]”![6]
-{0121}I:
+{0121}I:              Ottenuto: “[26]”![6]
 {0122}	          Got a “[26]”![6]
-{0122}I:
+{0122}I:              Ottenuto: “[26]”![6]
 {0123}	          Got a “[26]”![6]
-{0123}I:
+{0123}I:              Ottenuto: “[26]”![6]
 {0124}	          Got a “[26]”![6]
-{0124}I:
+{0124}I:              Ottenuto: “[26]”![6]
 {0125}	          Got a “[26]”![6]
-{0125}I:
+{0125}I:              Ottenuto: “[26]”![6]
 {0126}	          Got a “[26]”![6]
-{0126}I:
+{0126}I:              Ottenuto: “[26]”![6]
 {0127}	          Got a “[26]”![6]
-{0127}I:
+{0127}I:              Ottenuto: “[26]”![6]
 {0128}	          Got a “[26]”![6]
-{0128}I:
+{0128}I:              Ottenuto: “[26]”![6]
 {0129}	          Got a “[26]”![6]
-{0129}I:
+{0129}I:              Ottenuto: “[26]”![6]
 {0130}	          Got a “[26]”![6]
-{0130}I:
+{0130}I:              Ottenuto: “[26]”![6]
 {0131}	          Got a “[26]”![6]
-{0131}I:
+{0131}I:              Ottenuto: “[26]”![6]
 {0132}	          Got a “[26]”![6]
-{0132}I:
+{0132}I:              Ottenuto: “[26]”![6]
 {0133}	          Got a “[26]”![6]
-{0133}I:
+{0133}I:              Ottenuto: “[26]”![6]
 {0134}	          Got a “[26]”![6]
-{0134}I:
+{0134}I:              Ottenuto: “[26]”![6]
 {0135}	          Got a “[26]”![6]
-{0135}I:
+{0135}I:              Ottenuto: “[26]”![6]
 {0136}	          Got a “[26]”![6]
-{0136}I:
+{0136}I:              Ottenuto: “[26]”![6]
 {0137}	          Got a “[26]”![6]
-{0137}I:
+{0137}I:              Ottenuto: “[26]”![6]
 {0138}	          Got a “[26]”![6]
-{0138}I:
+{0138}I:              Ottenuto: “[26]”![6]
 {0139}	          Got a “[26]”![6]
-{0139}I:
+{0139}I:              Ottenuto: “[26]”![6]
 {0140}	          Got a “[26]”![6]
-{0140}I:
+{0140}I:              Ottenuto: “[26]”![6]
 {0141}	          Got a “[26]”![6]
-{0141}I:
+{0141}I:              Ottenuto: “[26]”![6]
 {0142}	          Got a “[26]”![6]
-{0142}I:
+{0142}I:              Ottenuto: “[26]”![6]
 {0143}	          Got a “[26]”![6]
-{0143}I:
+{0143}I:              Ottenuto: “[26]”![6]
 {0144}	          Got a “[26]”![6]
-{0144}I:
+{0144}I:              Ottenuto: “[26]”![6]
 {0145}	          Got a “[26]”![6]
-{0145}I:
+{0145}I:              Ottenuto: “[26]”![6]
 {0146}	          Got a “[26]”![6]
-{0146}I:
+{0146}I:              Ottenuto: “[26]”![6]
 {0147}	          Got a “[26]”![6]
-{0147}I:
+{0147}I:              Ottenuto: “[26]”![6]
 {0148}	          Got a “[26]”![6]
-{0148}I:
+{0148}I:              Ottenuto: “[26]”![6]
 {0149}	          Got a “[26]”![6]
-{0149}I:
+{0149}I:              Ottenuto: “[26]”![6]
 {0150}	          Got a “[26]”![6]
-{0150}I:
+{0150}I:              Ottenuto: “[26]”![6]
 {0151}	          Got a “[26]”![6]
-{0151}I:
+{0151}I:              Ottenuto: “[26]”![6]
 {0152}	          Got a “[26]”![6]
-{0152}I:
+{0152}I:              Ottenuto: “[26]”![6]
 {0153}	          Got a “[26]”![6]
-{0153}I:
+{0153}I:              Ottenuto: “[26]”![6]
 {0154}	          Got a “[26]”![6]
-{0154}I:
+{0154}I:              Ottenuto: “[26]”![6]
 {0155}	          Got a “[26]”![6]
-{0155}I:
+{0155}I:              Ottenuto: “[26]”![6]
 {0156}	          Got a “[26]”![6]
-{0156}I:
+{0156}I:              Ottenuto: “[26]”![6]
 {0157}	          Got a “[26]”![6]
-{0157}I:
+{0157}I:              Ottenuto: “[26]”![6]
 {0158}	          Got a “[26]”![6]
-{0158}I:
+{0158}I:              Ottenuto: “[26]”![6]
 {0159}	          Got a “[26]”![6]
-{0159}I:
+{0159}I:              Ottenuto: “[26]”![6]
 {0160}	          Got a “[26]”![6]
-{0160}I:
+{0160}I:              Ottenuto: “[26]”![6]
 {0161}	          Got a “[26]”![6]
-{0161}I:
+{0161}I:              Ottenuto: “[26]”![6]
 {0162}	          Got a “[26]”![6]
-{0162}I:
+{0162}I:              Ottenuto: “[26]”![6]
 {0163}	          Got a “[26]”![6]
-{0163}I:
+{0163}I:              Ottenuto: “[26]”![6]
 {0164}	          Got a “[26]”![6]
-{0164}I:
+{0164}I:              Ottenuto: “[26]”![6]
 {0165}	          Got a “[26]”![6]
-{0165}I:
+{0165}I:              Ottenuto: “[26]”![6]
 {0166}	          Got a “[26]”![6]
-{0166}I:
+{0166}I:              Ottenuto: “[26]”![6]
 {0167}	          Got a “[26]”![6]
-{0167}I:
+{0167}I:              Ottenuto: “[26]”![6]
 {0168}	          Got a “[26]”![6]
-{0168}I:
+{0168}I:              Ottenuto: “[26]”![6]
 {0169}	          Got a “[26]”![6]
-{0169}I:
+{0169}I:              Ottenuto: “[26]”![6]
 {0170}	          Got a “[26]”![6]
-{0170}I:
+{0170}I:              Ottenuto: “[26]”![6]
 {0171}	          Got a “[26]”![6]
-{0171}I:
+{0171}I:              Ottenuto: “[26]”![6]
 {0172}	          Got a “[26]”![6]
-{0172}I:
+{0172}I:              Ottenuto: “[26]”![6]
 {0173}	          Got a “[26]”![6]
-{0173}I:
+{0173}I:              Ottenuto: “[26]”![6]
 {0174}	          Got a “[26]”![6]
-{0174}I:
+{0174}I:              Ottenuto: “[26]”![6]
 {0175}	          Got a “[26]”![6]
-{0175}I:
+{0175}I:              Ottenuto: “[26]”![6]
 {0176}	          Got a “[26]”![6]
-{0176}I:
+{0176}I:              Ottenuto: “[26]”![6]
 {0177}	          Got a “[26]”![6]
-{0177}I:
+{0177}I:              Ottenuto: “[26]”![6]
 {0178}	          Got a “[26]”![6]
-{0178}I:
+{0178}I:              Ottenuto: “[26]”![6]
 {0179}	          Got a “[26]”![6]
-{0179}I:
+{0179}I:              Ottenuto: “[26]”![6]
 {0180}	          Got a “[26]”![6]
-{0180}I:
+{0180}I:              Ottenuto: “[26]”![6]
 {0181}	          Got a “[26]”![6]
-{0181}I:
+{0181}I:              Ottenuto: “[26]”![6]
 {0182}	          Got a “[26]”![6]
-{0182}I:
+{0182}I:              Ottenuto: “[26]”![6]
 {0183}	          Got a “[26]”![6]
-{0183}I:
+{0183}I:              Ottenuto: “[26]”![6]
 {0184}	          Got a “[26]”![6]
-{0184}I:
+{0184}I:              Ottenuto: “[26]”![6]
 {0185}	          Got a “[26]”![6]
-{0185}I:
+{0185}I:              Ottenuto: “[26]”![6]
 {0186}	          Got a “[26]”![6]
-{0186}I:
+{0186}I:              Ottenuto: “[26]”![6]
 {0187}	          Got a “[26]”![6]
-{0187}I:
+{0187}I:              Ottenuto: “[26]”![6]
 {0188}	          Got a “[26]”![6]
-{0188}I:
+{0188}I:              Ottenuto: “[26]”![6]
 {0189}	          Got a “[26]”![6]
-{0189}I:
+{0189}I:              Ottenuto: “[26]”![6]
 {0190}	          Got a “[26]”![6]
-{0190}I:
+{0190}I:              Ottenuto: “[26]”![6]
 {0191}	          Got a “[26]”![6]
-{0191}I:
+{0191}I:              Ottenuto: “[26]”![6]
 {0192}	          Got a “[26]”![6]
-{0192}I:
+{0192}I:              Ottenuto: “[26]”![6]
 {0193}	          Got a “[26]”![6]
-{0193}I:
+{0193}I:              Ottenuto: “[26]”![6]
 {0194}	          Got a “[26]”![6]
-{0194}I:
+{0194}I:              Ottenuto: “[26]”![6]
 {0195}	          Got a “[26]”![6]
-{0195}I:
+{0195}I:              Ottenuto: “[26]”![6]
 {0196}	          Got a “[26]”![6]
-{0196}I:
+{0196}I:              Ottenuto: “[26]”![6]
 {0197}	          Got a “[26]”![6]
-{0197}I:
+{0197}I:              Ottenuto: “[26]”![6]
 {0198}	          Got a “[26]”![6]
-{0198}I:
+{0198}I:              Ottenuto: “[26]”![6]
 {0199}	          Got a “[26]”![6]
-{0199}I:
+{0199}I:              Ottenuto: “[26]”![6]
 {0200}	          Got a “[26]”![6]
-{0200}I:
+{0200}I:              Ottenuto: “[26]”![6]
 {0201}	          Got a “[26]”![6]
-{0201}I:
+{0201}I:              Ottenuto: “[26]”![6]
 {0202}	          Got a “[26]”![6]
-{0202}I:
+{0202}I:              Ottenuto: “[26]”![6]
 {0203}	          Got a “[26]”![6]
-{0203}I:
+{0203}I:              Ottenuto: “[26]”![6]
 {0204}	          Got a “[26]”![6]
-{0204}I:
+{0204}I:              Ottenuto: “[26]”![6]
 {0205}	          Got a “[26]”![6]
-{0205}I:
+{0205}I:              Ottenuto: “[26]”![6]
 {0206}	          Got a “[26]”![6]
-{0206}I:
+{0206}I:              Ottenuto: “[26]”![6]
 {0207}	          Got a “[26]”![6]
-{0207}I:
+{0207}I:              Ottenuto: “[26]”![6]
 {0208}	          Got a “[26]”![6]
-{0208}I:
+{0208}I:              Ottenuto: “[26]”![6]
 {0209}	          Got a “[26]”![6]
-{0209}I:
+{0209}I:              Ottenuto: “[26]”![6]
 {0210}	          Got a “[26]”![6]
-{0210}I:
+{0210}I:              Ottenuto: “[26]”![6]
 {0211}	          Got a “[26]”![6]
-{0211}I:
+{0211}I:              Ottenuto: “[26]”![6]
 {0212}	          Got a “[26]”![6]
-{0212}I:
+{0212}I:              Ottenuto: “[26]”![6]
 {0213}	          Got a “[26]”![6]
-{0213}I:
+{0213}I:              Ottenuto: “[26]”![6]
 {0214}	          Got a “[26]”![6]
-{0214}I:
+{0214}I:              Ottenuto: “[26]”![6]
 {0215}	          Got a “[26]”![6]
-{0215}I:
+{0215}I:              Ottenuto: “[26]”![6]
 {0216}	          Got a “[26]”![6]
-{0216}I:
+{0216}I:              Ottenuto: “[26]”![6]
 {0217}	          Got a “[26]”![6]
-{0217}I:
+{0217}I:              Ottenuto: “[26]”![6]
 {0218}	          Got a “[26]”![6]
-{0218}I:
+{0218}I:              Ottenuto: “[26]”![6]
 {0219}	          Got a “[26]”![6]
-{0219}I:
+{0219}I:              Ottenuto: “[26]”![6]
 {0220}	          Got a “[26]”![6]
-{0220}I:
+{0220}I:              Ottenuto: “[26]”![6]
 {0221}	          Got a “[26]”![6]
-{0221}I:
+{0221}I:              Ottenuto: “[26]”![6]
 {0222}	          Got a “[26]”![6]
-{0222}I:
+{0222}I:              Ottenuto: “[26]”![6]
 {0223}	          Got a “[26]”![6]
-{0223}I:
+{0223}I:              Ottenuto: “[26]”![6]
 {0224}	          Got a “[26]”![6]
-{0224}I:
+{0224}I:              Ottenuto: “[26]”![6]
 {0225}	          Got a “[26]”![6]
-{0225}I:
+{0225}I:              Ottenuto: “[26]”![6]
 {0226}	          Got a “[26]”![6]
-{0226}I:
+{0226}I:              Ottenuto: “[26]”![6]
 {0227}	          Got a “[26]”![6]
-{0227}I:
+{0227}I:              Ottenuto: “[26]”![6]
 {0228}	          Got a “[26]”![6]
-{0228}I:
+{0228}I:              Ottenuto: “[26]”![6]
 {0229}	          Got a “[26]”![6]
-{0229}I:
+{0229}I:              Ottenuto: “[26]”![6]
 {0230}	          Got a “[26]”![6]
-{0230}I:
+{0230}I:              Ottenuto: “[26]”![6]
 {0231}	          Got a “[26]”![6]
-{0231}I:
+{0231}I:              Ottenuto: “[26]”![6]
 {0232}	          Got a “[26]”![6]
-{0232}I:
+{0232}I:              Ottenuto: “[26]”![6]
 {0233}	          Got a “[26]”![6]
-{0233}I:
+{0233}I:              Ottenuto: “[26]”![6]
 {0234}	          Got a “[26]”![6]
-{0234}I:
+{0234}I:              Ottenuto: “[26]”![6]
 {0235}	          Got a “[26]”![6]
-{0235}I:
+{0235}I:              Ottenuto: “[26]”![6]
 {0236}	          Got a “[26]”![6]
-{0236}I:
+{0236}I:              Ottenuto: “[26]”![6]
 {0237}	          Got a “[26]”![6]
-{0237}I:
+{0237}I:              Ottenuto: “[26]”![6]
 {0238}	          Got a “[26]”![6]
-{0238}I:
+{0238}I:              Ottenuto: “[26]”![6]
 {0239}	          Got a “[26]”![6]
-{0239}I:
+{0239}I:              Ottenuto: “[26]”![6]
 {0240}	          Got a “[26]”![6]
-{0240}I:
+{0240}I:              Ottenuto: “[26]”![6]
 {0241}	          Got a “[26]”![6]
-{0241}I:
+{0241}I:              Ottenuto: “[26]”![6]
 {0242}	          Got a “[26]”![6]
-{0242}I:
+{0242}I:              Ottenuto: “[26]”![6]
 {0243}	          Got a “[26]”![6]
-{0243}I:
+{0243}I:              Ottenuto: “[26]”![6]
 {0244}	          Got a “[26]”![6]
-{0244}I:
+{0244}I:              Ottenuto: “[26]”![6]
 {0245}	          Got a “[26]”![6]
-{0245}I:
+{0245}I:              Ottenuto: “[26]”![6]
 {0246}	          Got a “[26]”![6]
-{0246}I:
+{0246}I:              Ottenuto: “[26]”![6]
 {0247}	          Got a “[26]”![6]
-{0247}I:
+{0247}I:              Ottenuto: “[26]”![6]
 {0248}	          Got a “[26]”![6]
-{0248}I:
+{0248}I:              Ottenuto: “[26]”![6]
 {0249}	          Got a “[26]”![6]
-{0249}I:
+{0249}I:              Ottenuto: “[26]”![6]
 {0250}	          Got a “[26]”![6]
-{0250}I:
+{0250}I:              Ottenuto: “[26]”![6]
 {0251}	          Got a “[26]”![6]
-{0251}I:
+{0251}I:              Ottenuto: “[26]”![6]
 {0252}	          Got a “[26]”![6]
-{0252}I:
+{0252}I:              Ottenuto: “[26]”![6]
 {0253}	          Got a “[26]”![6]
-{0253}I:
+{0253}I:              Ottenuto: “[26]”![6]
 {0254}	          Got a “[26]”![6]
-{0254}I:
+{0254}I:              Ottenuto: “[26]”![6]
 {0255}	          Got a “[26]”![6]
-{0255}I:
+{0255}I:              Ottenuto: “[26]”![6]
 {0256}	          Got a “[26]”![6]
-{0256}I:
+{0256}I:              Ottenuto: “[26]”![6]
 {0257}	          Got a “[26]”![6]
-{0257}I:
+{0257}I:              Ottenuto: “[26]”![6]
 {0258}	          Got a “[26]”![6]
-{0258}I:
+{0258}I:              Ottenuto: “[26]”![6]
 {0259}	          Got a “[26]”![6]
-{0259}I:
+{0259}I:              Ottenuto: “[26]”![6]
 {0260}	          Got a “[26]”![6]
-{0260}I:
+{0260}I:              Ottenuto: “[26]”![6]
 {0261}	          Got a “[26]”![6]
-{0261}I:
+{0261}I:              Ottenuto: “[26]”![6]
 {0262}	          Got a “[26]”![6]
-{0262}I:
+{0262}I:              Ottenuto: “[26]”![6]
 {0263}	          Got a “[26]”![6]
-{0263}I:
+{0263}I:              Ottenuto: “[26]”![6]
 {0264}	          Got a “[26]”![6]
-{0264}I:
+{0264}I:              Ottenuto: “[26]”![6]
 {0265}	          Got a “[26]”![6]
-{0265}I:
+{0265}I:              Ottenuto: “[26]”![6]
 {0266}	          Got a “[26]”![6]
-{0266}I:
+{0266}I:              Ottenuto: “[26]”![6]
 {0267}	          Got a “[26]”![6]
-{0267}I:
+{0267}I:              Ottenuto: “[26]”![6]
 {0268}	          Got a “[26]”![6]
-{0268}I:
+{0268}I:              Ottenuto: “[26]”![6]
 {0269}	          Got a “[26]”![6]
-{0269}I:
+{0269}I:              Ottenuto: “[26]”![6]
 {0270}	          Got a “[26]”![6]
-{0270}I:
+{0270}I:              Ottenuto: “[26]”![6]
 {0271}	          Got a “[26]”![6]
-{0271}I:
+{0271}I:              Ottenuto: “[26]”![6]
 {0272}	          Got a “[26]”![6]
-{0272}I:
+{0272}I:              Ottenuto: “[26]”![6]
 {0273}	          Got a “[26]”![6]
-{0273}I:
+{0273}I:              Ottenuto: “[26]”![6]
 {0274}	          Got a “[26]”![6]
-{0274}I:
+{0274}I:              Ottenuto: “[26]”![6]
 {0275}	          Got a “[26]”![6]
-{0275}I:
+{0275}I:              Ottenuto: “[26]”![6]
 {0276}	          Got a “[26]”![6]
-{0276}I:
+{0276}I:              Ottenuto: “[26]”![6]
 {0277}	          Got a “[26]”![6]
-{0277}I:
+{0277}I:              Ottenuto: “[26]”![6]
 {0278}	          Got a “[26]”![6]
-{0278}I:
+{0278}I:              Ottenuto: “[26]”![6]
 {0279}	          Got a “[26]”![6]
-{0279}I:
+{0279}I:              Ottenuto: “[26]”![6]
 {0280}	          Got a “[26]”![6]
-{0280}I:
+{0280}I:              Ottenuto: “[26]”![6]
 {0281}	          Got a “[26]”![6]
-{0281}I:
+{0281}I:              Ottenuto: “[26]”![6]
 {0282}	          Got a “[26]”![6]
-{0282}I:
+{0282}I:              Ottenuto: “[26]”![6]
 {0283}	          Got a “[26]”![6]
-{0283}I:
+{0283}I:              Ottenuto: “[26]”![6]
 {0284}	          Got a “[26]”![6]
-{0284}I:
+{0284}I:              Ottenuto: “[26]”![6]
 {0285}	          Got a “[26]”![6]
-{0285}I:
+{0285}I:              Ottenuto: “[26]”![6]
 {0286}	          Got a “[26]”![6]
-{0286}I:
+{0286}I:              Ottenuto: “[26]”![6]
 {0287}	          Got a “[26]”![6]
-{0287}I:
+{0287}I:              Ottenuto: “[26]”![6]
 {0288}	          Got a “[26]”![6]
-{0288}I:
+{0288}I:              Ottenuto: “[26]”![6]
 {0289}	          Got a “[26]”![6]
-{0289}I:
+{0289}I:              Ottenuto: “[26]”![6]
 {0290}	          Got a “[26]”![6]
-{0290}I:
+{0290}I:              Ottenuto: “[26]”![6]
 {0291}	          Got a “[26]”![6]
-{0291}I:
+{0291}I:              Ottenuto: “[26]”![6]
 {0292}	          Got a “[26]”![6]
-{0292}I:
+{0292}I:              Ottenuto: “[26]”![6]
 {0293}	          Got a “[26]”![6]
-{0293}I:
+{0293}I:              Ottenuto: “[26]”![6]
 {0294}	          Got a “[26]”![6]
-{0294}I:
+{0294}I:              Ottenuto: “[26]”![6]
 {0295}	          Got a “[26]”![6]
-{0295}I:
+{0295}I:              Ottenuto: “[26]”![6]
 {0296}	          Got a “[26]”![6]
-{0296}I:
+{0296}I:              Ottenuto: “[26]”![6]
 {0297}	          Got a “[26]”![6]
-{0297}I:
+{0297}I:              Ottenuto: “[26]”![6]
 {0298}	          Got a “[26]”![6]
-{0298}I:
+{0298}I:              Ottenuto: “[26]”![6]
 {0299}	          Got a “[26]”![6]
-{0299}I:
+{0299}I:              Ottenuto: “[26]”![6]
 {0300}	          Got a “[26]”![6]
-{0300}I:
+{0300}I:              Ottenuto: “[26]”![6]
 {0301}	          Got a “[26]”![6]
-{0301}I:
+{0301}I:              Ottenuto: “[26]”![6]
 {0302}	          Got a “[26]”![6]
-{0302}I:
+{0302}I:              Ottenuto: “[26]”![6]
 {0303}	          Got a “[26]”![6]
-{0303}I:
+{0303}I:              Ottenuto: “[26]”![6]
 {0304}	          Got a “[26]”![6]
-{0304}I:
+{0304}I:              Ottenuto: “[26]”![6]
 {0305}	          Got a “[26]”![6]
-{0305}I:
+{0305}I:              Ottenuto: “[26]”![6]
 {0306}	          Got a “[26]”![6]
-{0306}I:
+{0306}I:              Ottenuto: “[26]”![6]
 {0307}	          Got a “[26]”![6]
-{0307}I:
+{0307}I:              Ottenuto: “[26]”![6]
 {0308}	          Got a “[26]”![6]
-{0308}I:
+{0308}I:              Ottenuto: “[26]”![6]
 {0309}	          Got a “[26]”![6]
-{0309}I:
+{0309}I:              Ottenuto: “[26]”![6]
 {0310}	          Got a “[26]”![6]
-{0310}I:
+{0310}I:              Ottenuto: “[26]”![6]
 {0311}	          Got a “[26]”![6]
-{0311}I:
+{0311}I:              Ottenuto: “[26]”![6]
 {0312}	          Got a “[26]”![6]
-{0312}I:
+{0312}I:              Ottenuto: “[26]”![6]
 {0313}	          Got a “[26]”![6]
-{0313}I:
+{0313}I:              Ottenuto: “[26]”![6]
 {0314}	          Got a “[26]”![6]
-{0314}I:
+{0314}I:              Ottenuto: “[26]”![6]
 {0315}	          Got a “[26]”![6]
-{0315}I:
+{0315}I:              Ottenuto: “[26]”![6]
 {0316}	          Got a “[26]”![6]
-{0316}I:
+{0316}I:              Ottenuto: “[26]”![6]
 {0317}	          Got a “[26]”![6]
-{0317}I:
+{0317}I:              Ottenuto: “[26]”![6]
 {0318}	          Got a “[26]”![6]
-{0318}I:
+{0318}I:              Ottenuto: “[26]”![6]
 {0319}	          Got a “[26]”![6]
-{0319}I:
+{0319}I:              Ottenuto: “[26]”![6]
 {0320}	          Got a “[26]”![6]
-{0320}I:
+{0320}I:              Ottenuto: “[26]”![6]
 {0321}	          Got a “[26]”![6]
-{0321}I:
+{0321}I:              Ottenuto: “[26]”![6]
 {0322}	          Got a “[26]”![6]
-{0322}I:
+{0322}I:              Ottenuto: “[26]”![6]
 {0323}	          Got a “[26]”![6]
-{0323}I:
+{0323}I:              Ottenuto: “[26]”![6]
 {0324}	          Got a “[26]”![6]
-{0324}I:
+{0324}I:              Ottenuto: “[26]”![6]
 {0325}	          Got a “[26]”![6]
-{0325}I:
+{0325}I:              Ottenuto: “[26]”![6]
 {0326}	          Got a “[26]”![6]
-{0326}I:
+{0326}I:              Ottenuto: “[26]”![6]
 {0327}	          Got a “[26]”![6]
-{0327}I:
+{0327}I:              Ottenuto: “[26]”![6]
 {0328}	          Got a “[26]”![6]
-{0328}I:
+{0328}I:              Ottenuto: “[26]”![6]
 {0329}	          Got a “[26]”![6]
-{0329}I:
+{0329}I:              Ottenuto: “[26]”![6]
 {0330}	          Got a “[26]”![6]
-{0330}I:
+{0330}I:              Ottenuto: “[26]”![6]
 {0331}	          Got a “[26]”![6]
-{0331}I:
+{0331}I:              Ottenuto: “[26]”![6]
 {0332}	          Got a “[26]”![6]
-{0332}I:
+{0332}I:              Ottenuto: “[26]”![6]
 {0333}	          Got a “[26]”![6]
-{0333}I:
+{0333}I:              Ottenuto: “[26]”![6]
 {0334}	          Got a “[26]”![6]
-{0334}I:
+{0334}I:              Ottenuto: “[26]”![6]
 {0335}	          Got a “[26]”![6]
-{0335}I:
+{0335}I:              Ottenuto: “[26]”![6]
 {0336}	          Got a “[26]”![6]
-{0336}I:
+{0336}I:              Ottenuto: “[26]”![6]
 {0337}	          Got a “[26]”![6]
-{0337}I:
+{0337}I:              Ottenuto: “[26]”![6]
 {0338}	          Got a “[26]”![6]
-{0338}I:
+{0338}I:              Ottenuto: “[26]”![6]
 {0339}	          Got a “[26]”![6]
-{0339}I:
+{0339}I:              Ottenuto: “[26]”![6]
 {0340}	          Got a “[26]”![6]
-{0340}I:
+{0340}I:              Ottenuto: “[26]”![6]
 {0341}	          Got a “[26]”![6]
-{0341}I:
+{0341}I:              Ottenuto: “[26]”![6]
 {0342}	          Got a “[26]”![6]
-{0342}I:
+{0342}I:              Ottenuto: “[26]”![6]
 {0343}	          Got a “[26]”![6]
-{0343}I:
+{0343}I:              Ottenuto: “[26]”![6]
 {0344}	          Got a “[26]”![6]
-{0344}I:
+{0344}I:              Ottenuto: “[26]”![6]
 {0345}	          Got a “[26]”![6]
-{0345}I:
+{0345}I:              Ottenuto: “[26]”![6]
 {0346}	          Got a “[26]”![6]
-{0346}I:
+{0346}I:              Ottenuto: “[26]”![6]
 {0347}	          Got a “[26]”![6]
-{0347}I:
+{0347}I:              Ottenuto: “[26]”![6]
 {0348}	          Got a “[26]”![6]
-{0348}I:
+{0348}I:              Ottenuto: “[26]”![6]
 {0349}	          Got a “[26]”![6]
-{0349}I:
+{0349}I:              Ottenuto: “[26]”![6]
 {0350}	          Got a “[26]”![6]
-{0350}I:
+{0350}I:              Ottenuto: “[26]”![6]
 {0351}	          Got a “[26]”![6]
-{0351}I:
+{0351}I:              Ottenuto: “[26]”![6]
 {0352}	          Got a “[26]”![6]
-{0352}I:
+{0352}I:              Ottenuto: “[26]”![6]
 {0353}	          Got a “[26]”![6]
-{0353}I:
+{0353}I:              Ottenuto: “[26]”![6]
 {0354}	          Got a “[26]”![6]
-{0354}I:
+{0354}I:              Ottenuto: “[26]”![6]
 {0355}	          Got a “[26]”![6]
-{0355}I:
+{0355}I:              Ottenuto: “[26]”![6]
 {0356}	          Got a “[26]”![6]
-{0356}I:
+{0356}I:              Ottenuto: “[26]”![6]
 {0357}	          Got a “[26]”![6]
-{0357}I:
+{0357}I:              Ottenuto: “[26]”![6]
 {0358}	          Got a “[26]”![6]
-{0358}I:
+{0358}I:              Ottenuto: “[26]”![6]
 {0359}	          Got a “[26]”![6]
-{0359}I:
+{0359}I:              Ottenuto: “[26]”![6]
 {0360}	          Got a “[26]”![6]
-{0360}I:
+{0360}I:              Ottenuto: “[26]”![6]
 {0361}	          Got a “[26]”![6]
-{0361}I:
+{0361}I:              Ottenuto: “[26]”![6]
 {0362}	          Got a “[26]”![6]
-{0362}I:
+{0362}I:              Ottenuto: “[26]”![6]
 {0363}	          Got a “[26]”![6]
-{0363}I:
+{0363}I:              Ottenuto: “[26]”![6]
 {0364}	          Got a “[26]”![6]
-{0364}I:
+{0364}I:              Ottenuto: “[26]”![6]
 {0365}	          Got a “[26]”![6]
-{0365}I:
+{0365}I:              Ottenuto: “[26]”![6]
 {0366}	          Got a “[26]”![6]
-{0366}I:
+{0366}I:              Ottenuto: “[26]”![6]
 {0367}	          Got a “[26]”![6]
-{0367}I:
+{0367}I:              Ottenuto: “[26]”![6]
 {0368}	          Got a “[26]”![6]
-{0368}I:
+{0368}I:              Ottenuto: “[26]”![6]
 {0369}	          Got a “[26]”![6]
-{0369}I:
+{0369}I:              Ottenuto: “[26]”![6]
 {0370}	          Got a “[26]”![6]
-{0370}I:
+{0370}I:              Ottenuto: “[26]”![6]
 {0371}	          Got a “[26]”![6]
-{0371}I:
+{0371}I:              Ottenuto: “[26]”![6]
 {0372}	          Got a “[26]”![6]
-{0372}I:
+{0372}I:              Ottenuto: “[26]”![6]
 {0373}	          Got a “[26]”![6]
-{0373}I:
+{0373}I:              Ottenuto: “[26]”![6]
 {0374}	          Got a “[26]”![6]
-{0374}I:
+{0374}I:              Ottenuto: “[26]”![6]
 {0375}	          Got a “[26]”![6]
-{0375}I:
+{0375}I:              Ottenuto: “[26]”![6]
 {0376}	          Got a “[26]”![6]
-{0376}I:
+{0376}I:              Ottenuto: “[26]”![6]
 {0377}	          Got a “[26]”![6]
-{0377}I:
+{0377}I:              Ottenuto: “[26]”![6]
 {0378}	          Got a “[26]”![6]
-{0378}I:
+{0378}I:              Ottenuto: “[26]”![6]
 {0379}	          Got a “[26]”![6]
-{0379}I:
+{0379}I:              Ottenuto: “[26]”![6]
 {0380}	          Got a “[26]”![6]
-{0380}I:
+{0380}I:              Ottenuto: “[26]”![6]
 {0381}	          Got a “[26]”![6]
-{0381}I:
+{0381}I:              Ottenuto: “[26]”![6]
 {0382}	          Got a “[26]”![6]
-{0382}I:
+{0382}I:              Ottenuto: “[26]”![6]
 {0383}	          Got a “[26]”![6]
-{0383}I:
+{0383}I:              Ottenuto: “[26]”![6]
 {0384}	          Got a “[26]”![6]
-{0384}I:
+{0384}I:              Ottenuto: “[26]”![6]
 {0385}	          Got a “[26]”![6]
-{0385}I:
+{0385}I:              Ottenuto: “[26]”![6]
 {0386}	          Got a “[26]”![6]
-{0386}I:
+{0386}I:              Ottenuto: “[26]”![6]
 {0387}	          Got a “[26]”![6]
-{0387}I:
+{0387}I:              Ottenuto: “[26]”![6]
 {0388}	          Got a “[26]”![6]
-{0388}I:
+{0388}I:              Ottenuto: “[26]”![6]
 {0389}	          Got a “[26]”![6]
-{0389}I:
+{0389}I:              Ottenuto: “[26]”![6]
 {0390}	          Got a “[26]”![6]
-{0390}I:
+{0390}I:              Ottenuto: “[26]”![6]
 {0391}	          Got a “[26]”![6]
-{0391}I:
+{0391}I:              Ottenuto: “[26]”![6]
 {0392}	          Got a “[26]”![6]
-{0392}I:
+{0392}I:              Ottenuto: “[26]”![6]
 {0393}	          Got a “[26]”![6]
-{0393}I:
+{0393}I:              Ottenuto: “[26]”![6]
 {0394}	          Got a “[26]”![6]
-{0394}I:
+{0394}I:              Ottenuto: “[26]”![6]
 {0395}	          Got a “[26]”![6]
-{0395}I:
+{0395}I:              Ottenuto: “[26]”![6]
 {0396}	          Got a “[26]”![6]
-{0396}I:
+{0396}I:              Ottenuto: “[26]”![6]
 {0397}	          Got a “[26]”![6]
-{0397}I:
+{0397}I:              Ottenuto: “[26]”![6]
 {0398}	          Got a “[26]”![6]
-{0398}I:
+{0398}I:              Ottenuto: “[26]”![6]
 {0399}	          Got a “[26]”![6]
-{0399}I:
+{0399}I:              Ottenuto: “[26]”![6]
 {0400}	          Got a “[26]”![6]
-{0400}I:
+{0400}I:              Ottenuto: “[26]”![6]
 {0401}	          Got a “[26]”![6]
-{0401}I:
+{0401}I:              Ottenuto: “[26]”![6]
 {0402}	          Got a “[26]”![6]
-{0402}I:
+{0402}I:              Ottenuto: “[26]”![6]
 {0403}	          Got a “[26]”![6]
-{0403}I:
+{0403}I:              Ottenuto: “[26]”![6]
 {0404}	          Got a “[26]”![6]
-{0404}I:
+{0404}I:              Ottenuto: “[26]”![6]
 {0405}	          Got a “[26]”![6]
-{0405}I:
+{0405}I:              Ottenuto: “[26]”![6]
 {0406}	          Got a “[26]”![6]
-{0406}I:
+{0406}I:              Ottenuto: “[26]”![6]
 {0407}	          Got a “[26]”![6]
-{0407}I:
+{0407}I:              Ottenuto: “[26]”![6]
 {0408}	          Got a “[26]”![6]
-{0408}I:
+{0408}I:              Ottenuto: “[26]”![6]
 {0409}	          Got a “[26]”![6]
-{0409}I:
+{0409}I:              Ottenuto: “[26]”![6]
 {0410}	          Got a “[26]”![6]
-{0410}I:
+{0410}I:              Ottenuto: “[26]”![6]
 {0411}	          Got a “[26]”![6]
-{0411}I:
+{0411}I:              Ottenuto: “[26]”![6]
 {0412}	          Got a “[26]”![6]
-{0412}I:
+{0412}I:              Ottenuto: “[26]”![6]
 {0413}	          Got a “[26]”![6]
-{0413}I:
+{0413}I:              Ottenuto: “[26]”![6]
 {0414}	          Got a “[26]”![6]
-{0414}I:
+{0414}I:              Ottenuto: “[26]”![6]
 {0415}	          Got a “[26]”![6]
-{0415}I:
+{0415}I:              Ottenuto: “[26]”![6]
 {0416}	          Got a “[26]”![6]
-{0416}I:
+{0416}I:              Ottenuto: “[26]”![6]
 {0417}	          Got a “[26]”![6]
-{0417}I:
+{0417}I:              Ottenuto: “[26]”![6]
 {0418}	          Got a “[26]”![6]
-{0418}I:
+{0418}I:              Ottenuto: “[26]”![6]
 {0419}	          Got a “[26]”![6]
-{0419}I:
+{0419}I:              Ottenuto: “[26]”![6]
 {0420}	          Got a “[26]”![6]
-{0420}I:
+{0420}I:              Ottenuto: “[26]”![6]
 {0421}	          Got a “[26]”![6]
-{0421}I:
+{0421}I:              Ottenuto: “[26]”![6]
 {0422}	          Got a “[26]”![6]
-{0422}I:
+{0422}I:              Ottenuto: “[26]”![6]
 {0423}	          Got a “[26]”![6]
-{0423}I:
+{0423}I:              Ottenuto: “[26]”![6]
 {0424}	          Got a “[26]”![6]
-{0424}I:
+{0424}I:              Ottenuto: “[26]”![6]
 {0425}	          Got a “[26]”![6]
-{0425}I:
+{0425}I:              Ottenuto: “[26]”![6]
 {0426}	          Got a “[26]”![6]
-{0426}I:
+{0426}I:              Ottenuto: “[26]”![6]
 {0427}	          Got a “[26]”![6]
-{0427}I:
+{0427}I:              Ottenuto: “[26]”![6]
 {0428}	          Got a “[26]”![6]
-{0428}I:
+{0428}I:              Ottenuto: “[26]”![6]
 {0429}	          Got a “[26]”![6]
-{0429}I:
+{0429}I:              Ottenuto: “[26]”![6]
 {0430}	          Got a “[26]”![6]
-{0430}I:
+{0430}I:              Ottenuto: “[26]”![6]
 {0431}	          Got a “[26]”![6]
-{0431}I:
+{0431}I:              Ottenuto: “[26]”![6]
 {0432}	          Got a “[26]”![6]
-{0432}I:
+{0432}I:              Ottenuto: “[26]”![6]
 {0433}	          Got a “[26]”![6]
-{0433}I:
+{0433}I:              Ottenuto: “[26]”![6]
 {0434}	          Got a “[26]”![6]
-{0434}I:
+{0434}I:              Ottenuto: “[26]”![6]
 {0435}	          Got a “[26]”![6]
-{0435}I:
+{0435}I:              Ottenuto: “[26]”![6]
 {0436}	          Got a “[26]”![6]
-{0436}I:
+{0436}I:              Ottenuto: “[26]”![6]
 {0437}	          Got a “[26]”![6]
-{0437}I:
+{0437}I:              Ottenuto: “[26]”![6]
 {0438}	          Got a “[26]”![6]
-{0438}I:
+{0438}I:              Ottenuto: “[26]”![6]
 {0439}	          Got a “[26]”![6]
-{0439}I:
+{0439}I:              Ottenuto: “[26]”![6]
 {0440}	          Got a “[26]”![6]
-{0440}I:
+{0440}I:              Ottenuto: “[26]”![6]
 {0441}	          Got a “[26]”![6]
-{0441}I:
+{0441}I:              Ottenuto: “[26]”![6]
 {0442}	          Got a “[26]”![6]
-{0442}I:
+{0442}I:              Ottenuto: “[26]”![6]
 {0443}	          Got a “[26]”![6]
-{0443}I:
+{0443}I:              Ottenuto: “[26]”![6]
 {0444}	          Got a “[26]”![6]
-{0444}I:
+{0444}I:              Ottenuto: “[26]”![6]
 {0445}	          Got a “[26]”![6]
-{0445}I:
+{0445}I:              Ottenuto: “[26]”![6]
 {0446}	          Got a “[26]”![6]
-{0446}I:
+{0446}I:              Ottenuto: “[26]”![6]
 {0447}	          Got a “[26]”![6]
-{0447}I:
+{0447}I:              Ottenuto: “[26]”![6]
 {0448}	          Got a “[26]”![6]
-{0448}I:
+{0448}I:              Ottenuto: “[26]”![6]
 {0449}	          Got a “[26]”![6]
-{0449}I:
+{0449}I:              Ottenuto: “[26]”![6]
 {0450}	          Got a “[26]”![6]
-{0450}I:
+{0450}I:              Ottenuto: “[26]”![6]
 {0451}	          Got a “[26]”![6]
-{0451}I:
+{0451}I:              Ottenuto: “[26]”![6]
 {0452}	          Got a “[26]”![6]
-{0452}I:
+{0452}I:              Ottenuto: “[26]”![6]
 {0453}	          Got a “[26]”![6]
-{0453}I:
+{0453}I:              Ottenuto: “[26]”![6]
 {0454}	          Got a “[26]”![6]
-{0454}I:
+{0454}I:              Ottenuto: “[26]”![6]
 {0455}	          Got a “[26]”![6]
-{0455}I:
+{0455}I:              Ottenuto: “[26]”![6]
 {0456}	          Got a “[26]”![6]
-{0456}I:
+{0456}I:              Ottenuto: “[26]”![6]
 {0457}	          Got a “[26]”![6]
-{0457}I:
+{0457}I:              Ottenuto: “[26]”![6]
 {0458}	          Got a “[26]”![6]
-{0458}I:
+{0458}I:              Ottenuto: “[26]”![6]
 {0459}	          Got a “[26]”![6]
-{0459}I:
+{0459}I:              Ottenuto: “[26]”![6]
 {0460}	          Got a “[26]”![6]
-{0460}I:
+{0460}I:              Ottenuto: “[26]”![6]
 {0461}	          Got a “[26]”![6]
-{0461}I:
+{0461}I:              Ottenuto: “[26]”![6]
 {0462}	          Got a “[26]”![6]
-{0462}I:
+{0462}I:              Ottenuto: “[26]”![6]
 {0463}	          Got a “[26]”![6]
-{0463}I:
+{0463}I:              Ottenuto: “[26]”![6]
 {0464}	          Got a “[26]”![6]
-{0464}I:
+{0464}I:              Ottenuto: “[26]”![6]
 {0465}	          Got a “[26]”![6]
-{0465}I:
+{0465}I:              Ottenuto: “[26]”![6]
 {0466}	          Got a “[26]”![6]
-{0466}I:
+{0466}I:              Ottenuto: “[26]”![6]
 {0467}	          Got a “[26]”![6]
-{0467}I:
+{0467}I:              Ottenuto: “[26]”![6]
 {0468}	          Got a “[26]”![6]
-{0468}I:
+{0468}I:              Ottenuto: “[26]”![6]
 {0469}	          Got a “[26]”![6]
-{0469}I:
+{0469}I:              Ottenuto: “[26]”![6]
 {0470}	          Got a “[26]”![6]
-{0470}I:
+{0470}I:              Ottenuto: “[26]”![6]
 {0471}	          Got a “[26]”![6]
-{0471}I:
+{0471}I:              Ottenuto: “[26]”![6]
 {0472}	          Got a “[26]”![6]
-{0472}I:
+{0472}I:              Ottenuto: “[26]”![6]
 {0473}	          Got a “[26]”![6]
-{0473}I:
+{0473}I:              Ottenuto: “[26]”![6]
 {0474}	          Got a “[26]”![6]
-{0474}I:
+{0474}I:              Ottenuto: “[26]”![6]
 {0475}	          Got a “[26]”![6]
-{0475}I:
+{0475}I:              Ottenuto: “[26]”![6]
 {0476}	          Got a “[26]”![6]
-{0476}I:
+{0476}I:              Ottenuto: “[26]”![6]
 {0477}	          Got a “[26]”![6]
-{0477}I:
+{0477}I:              Ottenuto: “[26]”![6]
 {0478}	          Got a “[26]”![6]
-{0478}I:
+{0478}I:              Ottenuto: “[26]”![6]
 {0479}	          Got a “[26]”![6]
-{0479}I:
+{0479}I:              Ottenuto: “[26]”![6]
 {0480}	          Got a “[26]”![6]
-{0480}I:
+{0480}I:              Ottenuto: “[26]”![6]
 {0481}	          Got a “[26]”![6]
-{0481}I:
+{0481}I:              Ottenuto: “[26]”![6]
 {0482}	          Got a “[26]”![6]
-{0482}I:
+{0482}I:              Ottenuto: “[26]”![6]
 {0483}	          Got a “[26]”![6]
-{0483}I:
+{0483}I:              Ottenuto: “[26]”![6]
 {0484}	          Got a “[26]”![6]
-{0484}I:
+{0484}I:              Ottenuto: “[26]”![6]
 {0485}	          Got a “[26]”![6]
-{0485}I:
+{0485}I:              Ottenuto: “[26]”![6]
 {0486}	          Got a “[26]”![6]
-{0486}I:
+{0486}I:              Ottenuto: “[26]”![6]
 {0487}	          Got a “[26]”![6]
-{0487}I:
+{0487}I:              Ottenuto: “[26]”![6]
 {0488}	          Got a “[26]”![6]
-{0488}I:
+{0488}I:              Ottenuto: “[26]”![6]
 {0489}	          Got a “[26]”![6]
-{0489}I:
+{0489}I:              Ottenuto: “[26]”![6]
 {0490}	          Got a “[26]”![6]
-{0490}I:
+{0490}I:              Ottenuto: “[26]”![6]
 {0491}	          Got a “[26]”![6]
-{0491}I:
+{0491}I:              Ottenuto: “[26]”![6]
 {0492}	          Got a “[26]”![6]
-{0492}I:
+{0492}I:              Ottenuto: “[26]”![6]
 {0493}	          Got a “[26]”![6]
-{0493}I:
+{0493}I:              Ottenuto: “[26]”![6]
 {0494}	          Got a “[26]”![6]
-{0494}I:
+{0494}I:              Ottenuto: “[26]”![6]
 {0495}	          Got a “[26]”![6]
-{0495}I:
+{0495}I:              Ottenuto: “[26]”![6]
 {0496}	          Got a “[26]”![6]
-{0496}I:
+{0496}I:              Ottenuto: “[26]”![6]
 {0497}	          Got a “[26]”![6]
-{0497}I:
+{0497}I:              Ottenuto: “[26]”![6]
 {0498}	          Got a “[26]”![6]
-{0498}I:
+{0498}I:              Ottenuto: “[26]”![6]
 {0499}	          Got a “[26]”![6]
-{0499}I:
+{0499}I:              Ottenuto: “[26]”![6]
 {0500}	          Got a “[26]”![6]
-{0500}I:
+{0500}I:              Ottenuto: “[26]”![6]
 {0501}	          Got a “[26]”![6]
-{0501}I:
+{0501}I:              Ottenuto: “[26]”![6]
 {0502}	          Got a “[26]”![6]
-{0502}I:
+{0502}I:              Ottenuto: “[26]”![6]
 {0503}	          Got a “[26]”![6]
-{0503}I:
+{0503}I:              Ottenuto: “[26]”![6]
 {0504}	          Got a “[26]”![6]
-{0504}I:
+{0504}I:              Ottenuto: “[26]”![6]
 {0505}	          Got a “[26]”![6]
-{0505}I:
+{0505}I:              Ottenuto: “[26]”![6]
 {0506}	          Got a “[26]”![6]
-{0506}I:
+{0506}I:              Ottenuto: “[26]”![6]
 {0507}	          Got a “[26]”![6]
-{0507}I:
+{0507}I:              Ottenuto: “[26]”![6]
 {0508}	          Got a “[26]”![6]
-{0508}I:
+{0508}I:              Ottenuto: “[26]”![6]
 {0509}	          Got a “[26]”![6]
-{0509}I:
+{0509}I:              Ottenuto: “[26]”![6]
 {0510}	          Got a “[26]”![6]
-{0510}I:
+{0510}I:              Ottenuto: “[26]”![6]
 {0511}	          Got a “[26]”![6]
-{0511}I:
+{0511}I:              Ottenuto: “[26]”![6]
 {0512}	          Got a “[26]”![6]
-{0512}I:
+{0512}I:              Ottenuto: “[26]”![6]
 {0513}	          Got a “[26]”![0]
-{0513}I:
+{0513}I:              Ottenuto: “[26]”![6]
 {0514}	[1]          Get down from there![0]
 {0514}I:
 {0515}	              Won [28][0] coin(s)![0]
