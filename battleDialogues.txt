@@ -1,105 +1,105 @@
-{0000}	 Suffering from shock![2][0]
-{0000}I:
+﻿{0000}	 Suffering from shock![2][0]
+{0000}I:	 Sta soffrendo a causa del colpo![2][0]
 {0001}	CROCO: Yeouch![2][0]
-{0001}I:
+{0001}I:	CROCO: Ouch![2][0]
 {0002}	MALLOW: Gimme back my coin[2][1] or I’ll belt ya again![2][0]
-{0002}I:
+{0002}I:	MALLOW: Ridammi la moneta[2][1] o te le darò ancora![2][0]
 {0003}	MALLOW: All right![2][1] We got it back![2][0]
-{0003}I:
+{0003}I:	MALLOW: Ottimo![2][1] L'abbiamo ripresa![2][0]
 {0004}	CROCO: Oooouch!!![2][1] I’m gonna pay ya back in spades, kid![2][0]
-{0004}I:
+{0004}I:	CROCO: Oooouch!!![2][1] Te la farò pagare, bimbo![2][0]
 {0005}	 Go on![12][1] Take back your grubby old coin![2][0]
-{0005}I:
+{0005}I:	 Vai![12][1] Riprenditi la tua lurida moneta![2][0]
 {0006}	 Adios amigos![2][0]
-{0006}I:
+{0006}I:	 Adios amigos![2][0]
 {0007}	BOWSER: What was that sound?[2][0]
-{0007}I:
+{0007}I:	BOWSER: Cos'è stato?[2][0]
 {0008}	 N...n...NO!!![2][0]
-{0008}I:
+{0008}I:	 N...n...NO!!![2][0]
 {0009}	 It’s a chain reaction!![2][1] Hang on, Kinklink!![2][0]
-{0009}I:
+{0009}I:	 Una reazione a catena!![2][1] Resisti, Cateniere!![2][0]
 {0010}	 Eyaaaaa!![2][0]
-{0010}I:
+{0010}I:	 Uaaaaaa!![2][0]
 {0011}	BOWSER: Coming, Mario?[2][0]
-{0011}I:
+{0011}I:	BOWSER: Che ne dici di scendere[2][1] anche tu, Mario?[2][0]
 {0012}	 This is IT![2][1] I’m gonna take you out, Mario![2][0]
-{0012}I:
+{0012}I:	 FINALMENTE![2][1] Mi sbarazzerò di te, Mario![2][0]
 {0013}	BOWSER: Fungah! Foiled again![2][0]
-{0013}I:
+{0013}I:	BOWSER: No! Battuto di nuovo![2][0]
 {0014}	TOADSTOOL: Mario! The chain![2][1] Aim for the chain![2][0]
-{0014}I:
+{0014}I:	PEACH: Mario! La catena![2][1] Colpisci la catena![2][0]
 {0015}	TOADSTOOL: Fight, Mario![2][1] FIGHT!!![2][0]
-{0015}I:
+{0015}I:	PEACH: Lotta, Mario![2][1] LOTTA!!![2][0]
 {0016}	BOWSER: This should FINISH you![2][0]
-{0016}I:
+{0016}I:	BOWSER: Questo dovrebbe FINIRTI![2][0]
 {0017}	TOADSTOOL: Oh, Mario![2][1] You had me so worried.[2][1] Let’s get out of here![2][0]
-{0017}I:
+{0017}I:	PEACH: Oh, Mario![2][1] Ero super preoccupata.[2][1] Andiamocene![2][0]
 {0018}	TOADSTOOL: Shriek!! Mario!![3][1] I’m going to fall![2][0]
-{0018}I:
+{0018}I:	PEACH: Cavoli!! Mario!![3][1] Sto per cadere![2][0]
 {0019}	BOWSER: Mwa ha! Did you think[2][1] I was just gonna GIVE her to ya?[2][0]
-{0019}I:
+{0019}I:	BOWSER: Mua ha! Pensavi realmente[2][1] che te l'avrei LASCIATA?[2][0]
 {0020}	 You’re ALWAYS in my way![2][0]
-{0020}I:
+{0020}I:	 Mi metti SEMPRE i bastoni[2][1] fra le ruote![2][0]
 {0021}	BELOME: Ooooh![2][1] Room service has been kind to me![2][1] Where’s my bib?[2][0]
-{0021}I:
+{0021}I:	BELOME: Ooooh![2][1] Il servizio in camera![2][1] Dov'è il mio drink?[2][0]
 {0022}	BELOME: Stick for a body,[2][1] head full of straw, give me[2][1] a scarecrow, rah, rah, RAH![2][0]
-{0022}I:
+{0022}I:	BELOME: Bastone come corpo,[2][1] testa di fieno, uno spaventapasseri[2][1] è ciò che voglio, rah, rah, RAH![2][0]
 {0023}	BELOME: If you defeat me,[2][1] you STILL won’t beat me![2][1] Beware the flood![2][0]
-{0023}I:
+{0023}I:	BELOME: Anche battendomi,[2][1] NON l'avrete vinta![2][1] Sarete inondati![2][0]
 {0024}	TOADSTOOL: Don’t let Bowser[2][1] bruise you, Mario![2][0]
-{0024}I:
+{0024}I:	PEACH: Non farti colpire da[2][1] Bowser, Mario![2][0]
 {0025}	BOWSER: Mario! Prepare yourself[2][1] for the great beyond![2][0]
-{0025}I:
+{0025}I:	BOWSER: Mario! Preparati ad andare[2][1] all'aldilà![2][0]
 {0026}	BOWSER: What a joke!![2][1] Put some muscle into it![2][0]
-{0026}I:
+{0026}I:	BOWSER: Pivello!![2][1] Impegnati![2][0]
 {0027}	BOWYER: Nya?![2][1] And who might you be?[2][0]
-{0027}I:
+{0027}I:	ARCOMPA: Miao?![2][1] E chi tu sei?[2][0]
 {0028}	???: I serve...a higher authority...[2][0]
-{0028}I:
+{0028}I:	???: Io sono agli ordini...[2][1] di qualcuno superiore...[2][0]
 {0029}	 That Star Piece belongs to everyone.[2][1] You can’t keep it.[2][0]
-{0029}I:
+{0029}I:	 Quella Scheggiastella non ti appartiene.[2][0]
 {0030}	BOWYER: Nya! NYA![2][1] Angry I am![2][0]
-{0030}I:
+{0030}I:	ARCOMPA: Miao! MIAO![2][1] Arrabbiato ora sono![2][0]
 {0031}	 Nya![2][1] A lesson I will teach you![2][0]
-{0031}I:
+{0031}I:	 Miao![2][1] Una lezione riceverai![2][0]
 {0032}	???: Hey! Chill out![2][0]
-{0032}I:
+{0032}I:	???: Ehi! Calma![2][0]
 {0033}	MALLOW: Mario![2][1] It’s dangerous out there![2][0]
-{0033}I:
+{0033}I:	MALLOW: Mario![2][1] Questo posto è pericoloso![2][0]
 {0034}	 You’re gonna help, huh?[2][1] Whack that weirdo...[2][1] Save the guy in blue...[2][0]
-{0034}I:
+{0034}I:	 Aiuterete, uh?[2][1] Battete quel tizio strano...[2][1] Aiutate il tipo blu...[2][0]
 {0035}	 Me too![2][1] I will do what I can![2][0]
-{0035}I:
+{0035}I:	 Pure io farò il possibile![2][0]
 {0036}	 But...from over here![2][0]
-{0036}I:
+{0036}I:	 Ma... da qui![2][0]
 {0037}	 Mario... wait![2][0]
-{0037}I:
+{0037}I:	 Mario... aspetta![2][0]
 {0038}	 I’m NOT afraid.[2][1] And I’m NOT gonna cry![2][0]
-{0038}I:
+{0038}I:	 NON ho paura.[2][1] E NON piangerò![2][0]
 {0039}	 Yeouch![2][0]
-{0039}I:
+{0039}I:	 Ouch![2][0]
 {0040}	???: Stop it! That’s enough.[2][0]
-{0040}I:
+{0040}I:	???: Basta! Smettila.[2][0]
 {0041}	BOWYER: Gunya! Nya!!![2][0]
-{0041}I:
+{0041}I:	ARCOMPA: Pistoliao! Miao!!![2][0]
 {0042}	 Strong you are.[2][1] But stronger am I![2][1] Hurt you, I will![2][0]
-{0042}I:
+{0042}I:	 Forte tu sei.[2][1] Ma più forte sono io![2][1] Ti colpirò![2][0]
 {0043}	 So long, nya!![2][1] Part, now, we must![2][0]
-{0043}I:
+{0043}I:	 Addio, miao!![2][1] Salutarci dobbiamo![2][0]
 {0044}	 Nya nya NYA!![2][0]
-{0044}I:
+{0044}I:	 Miao miao MIAO!![2][0]
 {0045}	???: Thanks for the help![2][1] But... who are you?[2][0]
-{0045}I:
+{0045}I:	???: Grazie![2][1] Ma... Chi siete?[2][0]
 {0046}	MALLOW: Mario! You just...[2][1] DITCHED me back there![2][0]
-{0046}I:
+{0046}I:	MALLOW: Mario! Mi hai...[2][1] LASCIATO indietro![2][0]
 {0047}	 Huh? Don’t I know you?[2][1] You look... familiar![2][0]
-{0047}I:
+{0047}I:	 Uh? Hai un'aria familiare...[2][0]
 {0048}	???: So! You’re THE Mario![2][1] WE know about you![2][0]
-{0048}I:
+{0048}I:	???: Ah! Tu sei IL Mario![2][1] Sappiamo chi sei![2][0]
 {0049}	BOWYER: Knock knock! Nya![2][1] Insulted, I am![2][0]
-{0049}I:
+{0049}I:	ARCOMPA: Toc toc! Miao![2][1] Insultato ora mi sento![2][0]
 {0050}	BOWYER: NYAAA!![2][1] Now 3 against one![2][1] Nyat FAIR![2][1] Fix it, I will, nya![2][1] Shoot an arrow, I shall.[2][1] When a target it hits,[2][1] that Button... LOCKED![2][0]
-{0050}I:
+{0050}I:	ARCOMPA: MIAAAAO!![2][1] Ora tre contro uno siete![2][1] Miaoica GIUSTO![2][1] Metterlo a posto devo, miao![2][1] Scagliare una freccia devo.[2][1] Quando colpisce, quel Pulsante... [2][1] BLOCCATO sarà![2][0]
 {0051}	BELOME: C...can’t s...stand it![2][1] The hunger...the HUNGER![2][0]
 {0051}I:
 {0052}	 That was SCARY![2][0]
