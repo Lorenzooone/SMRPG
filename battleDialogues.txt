@@ -1,256 +1,512 @@
 {0000}	 Suffering from shock![2][0]
+{0000}I:
 {0001}	CROCO: Yeouch![2][0]
+{0001}I:
 {0002}	MALLOW: Gimme back my coin[2][1] or I’ll belt ya again![2][0]
+{0002}I:
 {0003}	MALLOW: All right![2][1] We got it back![2][0]
+{0003}I:
 {0004}	CROCO: Oooouch!!![2][1] I’m gonna pay ya back in spades, kid![2][0]
+{0004}I:
 {0005}	 Go on![12][1] Take back your grubby old coin![2][0]
+{0005}I:
 {0006}	 Adios amigos![2][0]
+{0006}I:
 {0007}	BOWSER: What was that sound?[2][0]
+{0007}I:
 {0008}	 N...n...NO!!![2][0]
+{0008}I:
 {0009}	 It’s a chain reaction!![2][1] Hang on, Kinklink!![2][0]
+{0009}I:
 {0010}	 Eyaaaaa!![2][0]
+{0010}I:
 {0011}	BOWSER: Coming, Mario?[2][0]
+{0011}I:
 {0012}	 This is IT![2][1] I’m gonna take you out, Mario![2][0]
+{0012}I:
 {0013}	BOWSER: Fungah! Foiled again![2][0]
+{0013}I:
 {0014}	TOADSTOOL: Mario! The chain![2][1] Aim for the chain![2][0]
+{0014}I:
 {0015}	TOADSTOOL: Fight, Mario![2][1] FIGHT!!![2][0]
+{0015}I:
 {0016}	BOWSER: This should FINISH you![2][0]
+{0016}I:
 {0017}	TOADSTOOL: Oh, Mario![2][1] You had me so worried.[2][1] Let’s get out of here![2][0]
+{0017}I:
 {0018}	TOADSTOOL: Shriek!! Mario!![3][1] I’m going to fall![2][0]
+{0018}I:
 {0019}	BOWSER: Mwa ha! Did you think[2][1] I was just gonna GIVE her to ya?[2][0]
+{0019}I:
 {0020}	 You’re ALWAYS in my way![2][0]
+{0020}I:
 {0021}	BELOME: Ooooh![2][1] Room service has been kind to me![2][1] Where’s my bib?[2][0]
+{0021}I:
 {0022}	BELOME: Stick for a body,[2][1] head full of straw, give me[2][1] a scarecrow, rah, rah, RAH![2][0]
+{0022}I:
 {0023}	BELOME: If you defeat me,[2][1] you STILL won’t beat me![2][1] Beware the flood![2][0]
+{0023}I:
 {0024}	TOADSTOOL: Don’t let Bowser[2][1] bruise you, Mario![2][0]
+{0024}I:
 {0025}	BOWSER: Mario! Prepare yourself[2][1] for the great beyond![2][0]
+{0025}I:
 {0026}	BOWSER: What a joke!![2][1] Put some muscle into it![2][0]
+{0026}I:
 {0027}	BOWYER: Nya?![2][1] And who might you be?[2][0]
+{0027}I:
 {0028}	???: I serve...a higher authority...[2][0]
+{0028}I:
 {0029}	 That Star Piece belongs to everyone.[2][1] You can’t keep it.[2][0]
+{0029}I:
 {0030}	BOWYER: Nya! NYA![2][1] Angry I am![2][0]
+{0030}I:
 {0031}	 Nya![2][1] A lesson I will teach you![2][0]
+{0031}I:
 {0032}	???: Hey! Chill out![2][0]
+{0032}I:
 {0033}	MALLOW: Mario![2][1] It’s dangerous out there![2][0]
+{0033}I:
 {0034}	 You’re gonna help, huh?[2][1] Whack that weirdo...[2][1] Save the guy in blue...[2][0]
+{0034}I:
 {0035}	 Me too![2][1] I will do what I can![2][0]
+{0035}I:
 {0036}	 But...from over here![2][0]
+{0036}I:
 {0037}	 Mario... wait![2][0]
+{0037}I:
 {0038}	 I’m NOT afraid.[2][1] And I’m NOT gonna cry![2][0]
+{0038}I:
 {0039}	 Yeouch![2][0]
+{0039}I:
 {0040}	???: Stop it! That’s enough.[2][0]
+{0040}I:
 {0041}	BOWYER: Gunya! Nya!!![2][0]
+{0041}I:
 {0042}	 Strong you are.[2][1] But stronger am I![2][1] Hurt you, I will![2][0]
+{0042}I:
 {0043}	 So long, nya!![2][1] Part, now, we must![2][0]
+{0043}I:
 {0044}	 Nya nya NYA!![2][0]
+{0044}I:
 {0045}	???: Thanks for the help![2][1] But... who are you?[2][0]
+{0045}I:
 {0046}	MALLOW: Mario! You just...[2][1] DITCHED me back there![2][0]
+{0046}I:
 {0047}	 Huh? Don’t I know you?[2][1] You look... familiar![2][0]
+{0047}I:
 {0048}	???: So! You’re THE Mario![2][1] WE know about you![2][0]
+{0048}I:
 {0049}	BOWYER: Knock knock! Nya![2][1] Insulted, I am![2][0]
+{0049}I:
 {0050}	BOWYER: NYAAA!![2][1] Now 3 against one![2][1] Nyat FAIR![2][1] Fix it, I will, nya![2][1] Shoot an arrow, I shall.[2][1] When a target it hits,[2][1] that Button... LOCKED![2][0]
+{0050}I:
 {0051}	BELOME: C...can’t s...stand it![2][1] The hunger...the HUNGER![2][0]
+{0051}I:
 {0052}	 That was SCARY![2][0]
+{0052}I:
 {0053}	 It’s 1:00.Time to play.[2][0]
+{0053}I:
 {0054}	 It’s 3:00. Time to RECOVER![2][0]
+{0054}I:
 {0055}	 It’s 5:00.Time for a break, huh?[2][0]
+{0055}I:
 {0056}	 It’s 6:00. Time to FULLY RECOVER.[2][0]
+{0056}I:
 {0057}	 It’s 7:00. DINNER TIME.[2][0]
+{0057}I:
 {0058}	 It’s 9:00. Guess I’ll break.[2][0]
+{0058}I:
 {0059}	 It’s 10:00. Time to garden.[2][0]
+{0059}I:
 {0060}	 It’s 12:00. It’s high noon.[2][0]
+{0060}I:
 {0061}	CROCO: You want them back?[2][1] You’ve got to take me down first![2][0]
+{0061}I:
 {0062}	CROCO: Yeouch! Enough already![2][1] Here’s your junk.[2][1] I’m outta here![2][0]
+{0062}I:
 {0063}	KNIFE GUY: Wait![2][1] You took all the trouble to[2][1] come here, so...stick around![2][0]
+{0063}I:
 {0064}	KNIFE GUY: Come on, brother![2][1] Let’s thrash ’em![2][0]
+{0064}I:
 {0065}	KNIFE GUY & GRATE GUY: Yikes![2][1] They’re pretty tough![2][0]
+{0065}I:
 {0066}	GRATE GUY: Whoopdy do![2][0]
+{0066}I:
 {0067}	BOOSTER: Did the cake just move?[2][0]
+{0067}I:
 {0068}	BOOSTER: H...huh?!![2][1] That MUST be Mario![2][1] Let’s make sure.[2][1] You! Check it out![2][0]
+{0068}I:
 {0069}	BOOSTER: Harumph![2][1] Just as I thought![2][1] It IS Mario.[2][1] Let’s...wind him up![2][0]
+{0069}I:
 {0070}	PUNCHINELLO: Good day.[2][1] The name’s Nello...PUNCHINELLO![2][0]
+{0070}I:
 {0071}	PUNCHINELLO: Good day.[2][1] The name’s Nello...PUNCHINELLO![2][0]
+{0071}I:
 {0072}	PUNCHINELLO: They say I’m a hot head,[2][1] but I’ll show them![2][1] You...YOU will make me famous![2][1] So long![2][0]
+{0072}I:
 {0073}	PUNCHINELLO: Not bad. Not bad![2][1] Now let’s up the ante![2][0]
+{0073}I:
 {0074}	PUNCHINELLO: Grrrrr...[2][1] All right![2][1] It’s CLOBBERING TIME![2][0]
+{0074}I:
 {0075}	PUNCHINELLO: Arghhh!![2][0]
+{0075}I:
 {0076}	PUNCHINELLO: Simmer down, fluffy![2][1] I’m not gonna waste this on YOU.[2][1] Who knows what might happen![2][0]
+{0076}I:
 {0077}	PUNCHINELLO: Enough![2][1] I’ve got my pride.[2][1] Now you’re in for it![2][0]
+{0077}I:
 {0078}	 Huh? What the hay?[2][0]
+{0078}I:
 {0079}	 Why isn’t it working?[2][0]
+{0079}I:
 {0080}	 Argh!![12][12][0]
+{0080}I:
 {0081}	MALLOW: Punchinello...?[2][1] Never heard of ya.[2][0]
+{0081}I:
 {0082}	MALLOW: I think he’s bluffing.[2][0]
+{0082}I:
 {0083}	GENO: Take your best shot![2][0]
+{0083}I:
 {0084}	PUNCHINELLO: I must be dreaming![2][1] I’m ruined![2][1] I didn’t want to do this,[2][1] but now, I have NO CHOICE!![2][0]
+{0084}I:
 {0085}	MALLOW: Mario!!![2][1] If this thing explodes,[2][1] we’re history!![2][0]
+{0085}I:
 {0086}	GENO: This is a fine mess![2][0]
+{0086}I:
 {0087}	MALLOW: Let’s scram! NOW![2][0]
+{0087}I:
 {0088}	 Owww![2][0]
+{0088}I:
 {0089}	GENO: It’s gonna blow!![2][0]
+{0089}I:
 {0090}	MALLOW: NO!![2][0]
+{0090}I:
 {0091}	JOHNNY: Fuwa ha ha...[2][1] Not bad, fellas.[2][0]
+{0091}I:
 {0092}	 How about it, Mario?[2][1] Mario versus me![2][1] Wanna mix it up?[2][0]
+{0092}I:
 {0093}	 Good fun![2][1] And good for you, too![2][0]
+{0093}I:
 {0094}	 All right.[2][1] Here comes my backup![2][0]
+{0094}I:
 {0095}	 Poke, poke, poke![2][0]
+{0095}I:
 {0096}	TORTE: Ouch! OUCH![2][0]
+{0096}I:
 {0097}	 Vat are you doing?![2][0]
+{0097}I:
 {0098}	APPRENTICE: Chef Torte![2][1] The cake’s MOVING![2][0]
+{0098}I:
 {0099}	TORTE: Vas?! Ist NOT moving![2][1] Back to verk![2][0]
+{0099}I:
 {0100}	APPRENTICE: I KNOW it was moving![2][0]
+{0100}I:
 {0101}	TORTE: Now vat?[2][0]
+{0101}I:
 {0102}	TORTE: Talk no more of zees![2][0]
+{0102}I:
 {0103}	APPRENTICE: No! Really, truly.[2][1] Why would I lie?[2][0]
+{0103}I:
 {0104}	TORTE: Because you are...IDIOT![2][0]
+{0104}I:
 {0105}	 Zee! It IS NOT moving![2][0]
+{0105}I:
 {0106}	 Huh?![2][0]
+{0106}I:
 {0107}	TORTE: Zee cake’s alive! RUN!![2][0]
+{0107}I:
 {0108}	APPRENTICE: See? I was RIGHT![2][0]
+{0108}I:
 {0109}	SNIFIT 1: Maybe we ought to wait.[2][0]
+{0109}I:
 {0110}	SNIFIT 2: This is Booster’s[2][1] wedding cake![2][0]
+{0110}I:
 {0111}	SNIFIT 3: He’ll have a fit[2][1] if we nibble on it![2][0]
+{0111}I:
 {0112}	BOOSTER: Hey, No.1![2][1] Where’s my cake?![2][0]
+{0112}I:
 {0113}	SNIFIT 1: Booster, Sir![2][1] There’s a 70% chance the object[2][1] you’re standing on is a cake.[2][0]
+{0113}I:
 {0114}	BOOSTER: [43][43][43][43]?[2][1] THIS thing’s a cake?[2][0]
+{0114}I:
 {0115}	 Okay, everyone!![2][1] Here’s the stumper.[2][1] How do we eat this?[2][1] I SAY we boil it![2][1] No.2, what do you say?[2][0]
+{0115}I:
 {0116}	SNIFIT 2: Way too messy![2][1] Why don’t you just swallow it?![2][0]
+{0116}I:
 {0117}	BOOSTER: WHAT?! In one GULP?[2][1] That’s easier said than done![2][0]
+{0117}I:
 {0118}	SNIFIT 3: Come, Booster![2][1] You can do it![2][1] Open wide, please![2][0]
+{0118}I:
 {0119}	BOOSTER: My nerves are shot.[2][1] I feel like I’ve forgotten to tie[2][1] my cord before a bungee jump![2][0]
+{0119}I:
 {0120}	SNIFIT: Here it comes![2][0]
+{0120}I:
 {0121}	BOOSTER: WAIT! WAIT![2][0]
+{0121}I:
 {0122}	SNIFIT: Concentrate, Sir![2][0]
+{0122}I:
 {0123}	BOOSTER: This doesn’t feel right.[2][0]
+{0123}I:
 {0124}	BOOSTER: Mmmmmm...[2][1] Delicious![2][1] It’s so good it makes me want to cry![2][0]
+{0124}I:
 {0125}	SNIFIT: Congratulations, Sir.[2][1] The wedding is now officially over!![2][0]
+{0125}I:
 {0126}	BOOSTER: Thanks, everyone.[2][0]
+{0126}I:
 {0127}	BOOSTER: It’s a wrap. Let’s go.[2][0]
+{0127}I:
 {0128}	 Zapped![2][0]
+{0128}I:
 {0129}	 Bowser’s mood has affected[2][1] the monster![2][1] The monster’s confused!![2][0]
+{0129}I:
 {0130}	 Bowser’s scaring the monster![2][0]
+{0130}I:
 {0131}	 Croco’s dousing a tail fire...[2][0]
+{0131}I:
 {0132}	 Mack’s stunned!![2][0]
+{0132}I:
 {0133}	 Mirage attack![2][0]
+{0133}I:
 {0134}	 Multiplier![2][0]
+{0134}I:
 {0135}	 Stop it![2][0]
+{0135}I:
 {0136}	 Stop! Stop!![2][0]
+{0136}I:
 {0137}	 Blow those candles out![2][0]
+{0137}I:
 {0138}	             First, push “A”.[2][0]
+{0138}I:
 {0139}	        Push “A” again to attack![2][0]
+{0139}I:
 {0140}	              Wait a second![2][0]
+{0140}I:
 {0141}	            Hit “A” again, here.[0]
+{0141}I:
 {0142}	               Good timing![2][0]
+{0142}I:
 {0143}	      When successful, your attack[2][1]      changes and damage increases.[2][0]
+{0143}I:
 {0144}	      Hit “A” prior to attack, too![0]
+{0144}I:
 {0145}	               Good timing![2][0]
+{0145}I:
 {0146}	       This can help you decrease[2][1]   the amount of damage done to you.[2][1]      It won’t always work, though.[2][0]
+{0146}I:
 {0147}	       Now, try a “Special” strike![2][0]
+{0147}I:
 {0148}	              Push “Y” here![0]
+{0148}I:
 {0149}	   Your attack will be more powerful![2][0]
+{0149}I:
 {0150}	           Learn Special Skills[2][1]          as you gain experience.[2][1]           They’re on the menu![2][0]
+{0150}I:
 {0151}	          Read about ’em, okay?[2][0]
+{0151}I:
 {0152}	 The Forkies are enraptured![2][0]
+{0152}I:
 {0153}	 The Forkies have come[2][1] to their senses![2][0]
+{0153}I:
 {0154}	VALENTINA: Dodo! DODO![2][1] Come here this minute![2][0]
+{0154}I:
 {0155}	VALENTINA: Dodo! DODO![2][1] Come here this minute![2][0]
+{0155}I:
 {0156}	VALENTINA: Dodo?![2][1] How could you lose already?[2][1] Well, come on![2][1] Get over here![2][0]
+{0156}I:
 {0157}	VALENTINA: I don’t believe this![2][0]
+{0157}I:
 {0158}	 The show’s over, folks![2][1] Dodo...! Let’s get outta here!![2][0]
+{0158}I:
 {0159}	 Don’t just sit there. HELP ME![2][0]
+{0159}I:
 {0160}	 Well, everyone...[2][1] Until we meet again![2][0]
+{0160}I:
 {0161}	 Mwa, ha, ha, ha, ha...[2][0]
+{0161}I:
 {0162}	SHY AWAY: La dee dah~[37][2][0]
+{0162}I:
 {0163}	 Hi ho, dee dum~[37][2][0]
+{0163}I:
 {0164}	 There there, my pretties![2][0]
+{0164}I:
 {0165}	 It’s shower time~[37][2][0]
+{0165}I:
 {0166}	 It’s recycled water![2][0]
+{0166}I:
 {0167}	 I added some nutrients~[37][2][0]
+{0167}I:
 {0168}	 Ack! Sour![2][0]
+{0168}I:
 {0169}	 Mmm, tastes peachy...[2][0]
+{0169}I:
 {0170}	 Yuck! How repulsive![2][0]
+{0170}I:
 {0171}	 Bitter, but not bad...[2][0]
+{0171}I:
 {0172}	 YES! THIS is YUMMY~[2][0]
+{0172}I:
 {0173}	 You all LOOK delicious![2][1] But how do you TASTE?[2][0]
+{0173}I:
 {0174}	 There we are![2][0]
+{0174}I:
 {0175}	BELOME: I never forget a taste![2][1] In fact, I can clone someone[2][1] after just one slurp. Watch![2][0]
+{0175}I:
 {0176}	BELOME: Oh, no, not again![2][1] I’m STARVING![2][1] Time to go home for dinner.[2][1] Goodbye, boys and girls![2][0]
+{0176}I:
 {0177}	AXEM RED: [2][1] This Star Piece gives people hope![2][1] It needs to be destroyed![2][0]
+{0177}I:
 {0178}	AXEM RED: Enough!![2][1] Now I’m angry![2][1] Time to finish this![2][1] Formation...HO!![2][0]
+{0178}I:
 {0179}	 Here we GO![2][0]
+{0179}I:
 {0180}	 Force Beam energized![2][1] Maximum charge![2][0]
+{0180}I:
 {0181}	 NOW! Fire the BREAKER!![2][0]
+{0181}I:
 {0182}	AXEM RED: What?[2][0]
+{0182}I:
 {0183}	AXEM RED: Then change brands![2][0]
+{0183}I:
 {0184}	AXEM RED: Serves ya right![2][0]
+{0184}I:
 {0185}	AXEM RED: Chew on your tongue![2][0]
+{0185}I:
 {0186}	AXEM RED:[2][1] You’re totally out of shape![2][0]
+{0186}I:
 {0187}	AXEM RED: SHUT UP, all of you![2][1] We’ve got a job to do![2][0]
+{0187}I:
 {0188}	 Yo, RED!![2][0]
+{0188}I:
 {0189}	AXEM PINK: My make-up’s running!![2][0]
+{0189}I:
 {0190}	AXEM BLACK: I broke my shades![2][0]
+{0190}I:
 {0191}	AXEM YELLOW: I’m... hungry!![2][0]
+{0191}I:
 {0192}	AXEM GREEN: I’ve got a headache.[2][0]
+{0192}I:
 {0193}	AXEM RED: Ooh, my head is spinning![2][0]
+{0193}I:
 {0194}	AXEM RED: We fight for evil![2][0]
+{0194}I:
 {0195}	AXEM BLACK: We live for disorder![2][0]
+{0195}I:
 {0196}	AXEM GREEN: We like what we do![2][0]
+{0196}I:
 {0197}	AXEM PINK: We struggle for chaos![2][0]
+{0197}I:
 {0198}	AXEM YELLOW: We are...[2][0]
+{0198}I:
 {0199}	 ...the AXEM RANGERS!![2][0]
+{0199}I:
 {0200}	AXEM RED: This isn’t possible![2][1] We are...invincible![2][0]
+{0200}I:
 {0201}	AXEM PINK: Can this be happening[2][1] to the AXEM RANGERS?[2][0]
+{0201}I:
 {0202}	 Uwaaaaaah!!![12][0]
+{0202}I:
 {0203}	JINX: Phew! Simply...AMAZING![2][0]
+{0203}I:
 {0204}	 Yikes! You’re tough![2][0]
+{0204}I:
 {0205}	BIRDO: Hello[36]![2][1] I’m Birdo.[2][0]
+{0205}I:
 {0206}	BIRDO: Tee, hee![2][1] Ouch, you’re hurting me![2][1] Now it’s my turn![2][1] Get it while it’s hot![2][0]
+{0206}I:
 {0207}	BIRDO: Oh, I’m never gonna let ya go.[2][1] You’re just too...CUTE![2][0]
+{0207}I:
 {0208}	 The monster is stunned![2][0]
+{0208}I:
 {0209}	 CAUTION: Confused monster![2][0]
+{0209}I:
 {0210}	 Heavy Troopa’s ready to launch.[2][0]
+{0210}I:
 {0211}	 Jawful’s sleeping.[2][0]
+{0211}I:
 {0212}	 Jawful’s awake now![2][0]
+{0212}I:
 {0213}	 The monster’s getting furious![2][0]
+{0213}I:
 {0214}	MOKUKA: Duh, huh huh...[2][0]
+{0214}I:
 {0215}	CULEX: I am matter...[2][1] I am antimatter...[2][1] I can see your past...[2][1] I can see your future...[2][1] I consume time...[2][1] And I will consume you![2][0]
+{0215}I:
 {0216}	 Monsters are inside![2][0]
+{0216}I:
 {0217}	 Magikoopa’s hiding![2][0]
+{0217}I:
 {0218}	 The EYE is protecting Exor!![2][0]
+{0218}I:
 {0219}	 Exor’s protection’s gone!![2][0]
+{0219}I:
 {0220}	 Time is marching on![2][0]
+{0220}I:
 {0221}	 The watch is broken![2][0]
+{0221}I:
 {0222}	 Recharging!![2][0]
+{0222}I:
 {0223}	 Guooooooo![2][1] My b...body and head are burning![2][1] It’s not...possible...![2][1] I don’t believe it...![2][1] I’m...finished...done for...![2][1] Guooooooooo...noooooo...![2][0]
+{0223}I:
 {0224}	Guooooo! C...can’t move...![2][0]
+{0224}I:
 {0225}	Mwa ha! I am burning with power![2][0]
+{0225}I:
 {0226}	BOOMER: Argh![2][1] This is absurd![2][1] I CAN’T be defeated by THEM![2][1] I won’t let this happen![2][1] I won’t fall in battle...[2][0]
+{0226}I:
 {0227}	 I don’t need your sympathy![2][1] I am a soldier...[2][1] I am prepared to...go...[2][0]
+{0227}I:
 {0228}	CHANDELI-HO: Boomer![2][1] Oh, poor Boomer![2][1] But not to worry![2][1] A little fall isn’t gonna hurt you![2][0]
+{0228}I:
 {0229}	CHANDELI-HO: All right, Mario![2][1] I’ll lead you to the top![2][1] We must hurry to the appointed place![2][0]
+{0229}I:
 {0230}	CLOAKER: Mwee hee hee![2][1] Behold! They’ve taken the bait![2][0]
+{0230}I:
 {0231}	DOMINO: Hee hee hee![2][1] I guess I can spare a few minutes![2][1] Maybe they’d like to...play![2][0]
+{0231}I:
 {0232}	CLOAKER: This is tougher than[2][1] I thought![2][1] I don’t like where this is going...[2][0]
+{0232}I:
 {0233}	DOMINO: Phew! What weaklings![2][1] How shameful if they were to[2][1] defeat me![2][0]
+{0233}I:
 {0234}	CLOAKER: Put your dukes up![2][0]
+{0234}I:
 {0235}	DOMINO: It’s clobbering time![2][0]
+{0235}I:
 {0236}	 Gasp...cough...hack...[2][1] H...having an attack...gasp...[2][0]
+{0236}I:
 {0237}	CHANDELI-HO: Yeoouuch!![2][0]
+{0237}I:
 {0238}	 See ya later, kids![2][0]
+{0238}I:
 {0239}	 Hang on tight![2][1] And away we go![2][0]
+{0239}I:
 {0240}	CHANDELI-HO: Increasing speed...![2][0]
+{0240}I:
 {0241}	CHANDELI-HO:[2][1] Next stop, the top floor![2][1] Please fasten your seatbelts and...[2][1] Wait a sec! There ARE no seatbelts![2][0]
+{0241}I:
 {0242}	 Take a dive, Chandeli-ho![2][0]
+{0242}I:
 {0243}	SMITHY: NOOOOOOOOOOOO...!!![2][0]
+{0243}I:
 {0244}	AERO: Calm down, Smithy![2][1] Your head looks like a geyser!![2][0]
+{0244}I:
 {0245}	DRILL BIT: Don’t get so worked up![2][1] Think of your blood pressure![2][0]
+{0245}I:
 {0246}	SHYSTER:[2][1] We just built this yesterday,[2][1] and the foundation’s very weak.[2][1] So...STOP SHAKING THE FLOOR![2][0]
+{0246}I:
 {0247}	SMITHY: How utterly annoying![2][0]
+{0247}I:
 {0248}	 Huh?![2][1] What the...?![2][1] How in the heck...?![2][0]
+{0248}I:
 {0249}	SMITHY: You kids should be ashamed[2][1] of yourselves for making me[2][1] so upset![2][0]
+{0249}I:
 {0250}	SMITHY:[2][1] Uwoooooooo...[2][1] I’m burning...seething...[2][1] Never have I been so wronged...[2][1] It is time...[2][1] I will show you my real form...[2][1] I will show you my true power...[2][1] I will teach you respect...[2][1] And I shall have my revenge...[2][0]
+{0250}I:
 {0251}	 Guooooooo!!!!![2][1] Come on, you puny ants![2][0]
+{0251}I:
 {0252}	 The monster is mute![12][0]
+{0252}I:
 {0253}	 Monster’s FP is gone![12][0]
+{0253}I:
 {0254}	 Error message[12][0]
+{0254}I:
 {0255}	 Go, World![12][0]
+{0255}I:
