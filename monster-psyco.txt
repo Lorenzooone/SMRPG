@@ -65,7 +65,7 @@
 032E: Look at THIS![2][0][END]
 032I: Guarda QUA![2][0][END]
 033E: That's...my [2][0]child?[2][0][END]
-033I: Ma quello è... mio [2][0]figlio!?[2][0][END]
+033I: Ma quello è... il mio [2][0]bambino!?[2][0][END]
 034E: Floating's a bad habit.[2][0][END]
 034I: Fluttuare è maleducazione.[2][0][END]
 035E: Huh?[2][0][END]
