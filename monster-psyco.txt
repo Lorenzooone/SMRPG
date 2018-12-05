@@ -73,7 +73,7 @@
 036E: Gather around! Watch it![2][0][END]
 036I: Accorrete e guardate![2][0][END]
 037E: Wanna join me?[2][0][END]
-037I: Vuolete unirvi a me?[2][0][END]
+037I: Volete unirvi a me?[2][0][END]
 038E: Don't confuse me[2][1] with someone else![2][0][END]
 038I: Non scambiatemi[2][1] per qualcun altro![2][0][END]
 039E: Feelin' kinda round...[2][0][END]
